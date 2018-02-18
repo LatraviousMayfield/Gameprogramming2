@@ -1,0 +1,9 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for GoBlockEditor (ini files are newer than UBTMakefile)
+  Deleting old hot reload file: "C:\Users\ldm0196\Desktop\Game2\GoBlock\Binaries\Win64\UE4Editor-GoBlock-4286.dll".
+  Deleting old hot reload file: "C:\Users\ldm0196\Desktop\Game2\GoBlock\Binaries\Win64\UE4Editor-GoBlock-4286.pdb".
+  Performing 1 actions (12 in parallel)
+  [1/1] Link UE4Editor-GoBlock.dll
+     Creating library C:\Users\ldm0196\Desktop\Game2\GoBlock\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GoBlock.suppressed.lib and object C:\Users\ldm0196\Desktop\Game2\GoBlock\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GoBlock.suppressed.exp
+  Deploying GoBlockEditor Win64 Development...
+  Total build time: 8.97 seconds (Local executor: 0.82 seconds)

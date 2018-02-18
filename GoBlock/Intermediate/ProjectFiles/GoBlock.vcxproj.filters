@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GoBlock.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{21A4D780-D50F-449D-9E9B-293551C409D4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GoBlock.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GoBlockEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{A698D42B-E198-4E57-8AF6-9880509ABD40}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GoBlock">
+			<UniqueIdentifier>{E108FC7A-F657-4ECB-9B03-85710993F287}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GoBlock\GoBlock.Build.cs">
+			<Filter>Source\GoBlock</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GoBlock\GoBlock.cpp">
+			<Filter>Source\GoBlock</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GoBlock\GoBlock.h">
+			<Filter>Source\GoBlock</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GoBlock\GoBlockCharacter.cpp">
+			<Filter>Source\GoBlock</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GoBlock\GoBlockCharacter.h">
+			<Filter>Source\GoBlock</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GoBlock\GoBlockGameMode.cpp">
+			<Filter>Source\GoBlock</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GoBlock\GoBlockGameMode.h">
+			<Filter>Source\GoBlock</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
