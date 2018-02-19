@@ -78,10 +78,10 @@ void AGoBlockCharacter::Tick(float DeltaTime)
 
 	FVector NewLocation = GetActorLocation();
 
-	float DeltaHeight = (FMath::Sin(RunningTime + DeltaTime) - FMath::Sin(RunningTime));
+	/*float DeltaHeight = (FMath::Sin(RunningTime + DeltaTime) - FMath::Sin(RunningTime));
 	NewLocation.X += DeltaHeight * 20.0f;
 	RunningTime += DeltaTime;
-	SetActorLocation(NewLocation);
+	SetActorLocation(NewLocation);*/
 }
 
 void AGoBlockCharacter::MoveForward(float Value)
