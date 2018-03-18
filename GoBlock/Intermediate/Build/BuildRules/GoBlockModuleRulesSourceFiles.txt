@@ -1,3 +1,0 @@
-C:\Users\ldm0196\Desktop\Game2\GoBlock\Source\GoBlock\GoBlock.Build.cs
-C:\Users\ldm0196\Desktop\Game2\GoBlock\Source\GoBlock.Target.cs
-C:\Users\ldm0196\Desktop\Game2\GoBlock\Source\GoBlockEditor.Target.cs
