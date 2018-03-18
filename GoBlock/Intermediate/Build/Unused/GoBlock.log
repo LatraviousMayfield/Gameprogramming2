@@ -1,0 +1,5 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for GoBlockEditor (ini files are newer than UBTMakefile)
+  Target is up to date
+  Deploying GoBlockEditor Win64 Development...
+  Total build time: 47.38 seconds (NoActionsToExecute executor: 0.00 seconds)
