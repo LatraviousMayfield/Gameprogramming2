@@ -1,0 +1,778 @@
+﻿Log file open, 04/24/18 12:37:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GoBlock
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1308874085) SRandInit(1308874085).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 14.209358
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Binaries/Win64/UE4Editor-GoBlock.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.24-17.37.33:290][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-17.37.33:290][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.24-17.37.33:562][  0]LogInit: Computer: DESKTOP-UHTKKQD
+[2018.04.24-17.37.33:562][  0]LogInit: User: ldm0196
+[2018.04.24-17.37.33:562][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.04.24-17.37.33:562][  0]LogInit: High frequency timer resolution =2.924194 MHz
+[2018.04.24-17.37.33:563][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.24-17.37.33:563][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-17.37.33:563][  0]LogMemory: Process Physical Memory: 275.16 MB used, 275.16 MB peak
+[2018.04.24-17.37.33:563][  0]LogMemory: Process Virtual Memory: 272.80 MB used, 272.80 MB peak
+[2018.04.24-17.37.33:563][  0]LogMemory: Physical Memory: 7291.03 MB used,  9021.37 MB free, 16312.40 MB total
+[2018.04.24-17.37.33:563][  0]LogMemory: Virtual Memory: 690.28 MB used,  9021.37 MB free, 134217728.00 MB total
+[2018.04.24-17.37.37:701][  0]LogInit: Using OS detected language (en-US).
+[2018.04.24-17.37.37:701][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.24-17.37.38:991][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.24-17.37.44:805][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.24-17.38.29:599][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.24-17.38.29:817][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.24-17.38.29:817][  0]LogD3D11RHI:       6052/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.24-17.38.29:822][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.24-17.38.29:822][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.24-17.38.29:822][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.24-17.38.29:840][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.24-17.38.29:840][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.24-17.38.29:840][  0]LogWindows: EnumDisplayDevices:
+[2018.04.24-17.38.29:840][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.24-17.38.29:840][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.04.24-17.38.29:841][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.24-17.38.29:841][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.24-17.38.29:841][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.24-17.38.29:841][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.24-17.38.29:841][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.24-17.38.29:841][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.24-17.38.29:841][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.04.24-17.38.29:904][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.24-17.38.29:922][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.24-17.38.29:976][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Intermediate/Shaders/WorkingDirectory/5684/).
+[2018.04.24-17.38.29:977][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ldm0196/AppData/Local/Temp/UnrealShaderWorkingDir/C7645A8547260D858EBDACAFBEF5456B/'.
+[2018.04.24-17.38.29:977][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.24-17.38.57:937][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.24-17.38.58:024][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.24-17.38.58:096][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.24-17.38.58:169][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.24-17.38.58:298][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.24-17.38.58:400][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.24-17.38.58:471][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.24-17.38.58:540][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.24-17.38.58:601][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.24-17.38.58:669][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.24-17.38.58:736][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.24-17.38.58:804][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.24-17.38.58:870][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.24-17.38.58:938][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.24-17.38.59:072][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.24-17.38.59:072][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.24-17.38.59:311][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.24-17.38.59:372][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.24-17.38.59:595][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.24-17.38.59:652][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.24-17.38.59:837][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.24-17.39.00:142][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.24-17.39.00:411][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.24-17.39.00:551][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.24-17.39.00:551][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.24-17.39.07:414][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.24-17.39.21:495][  0]LogDerivedDataCache: Loaded boot cache 14.08s 82MB C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.24-17.39.21:495][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.24-17.39.21:495][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.24-17.39.21:495][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.24-17.39.21:496][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.24-17.39.21:496][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.24-17.39.22:109][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.24-17.39.22:122][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ldm0196/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.24-17.39.22:150][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.24-17.39.22:151][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.24-17.39.22:209][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-17.39.22:209][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-17.39.58:245][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-17.40.07:523][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.24-17.40.07:758][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.24-17.40.07:758][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.24-17.40.07:758][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.24-17.40.07:758][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.24-17.40.07:758][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.24-17.40.08:176][  0]LogNetVersion: GoBlock , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2987437899)
+[2018.04.24-17.40.13:111][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2018.04.24-17.40.37:038][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.109470 seconds
+[2018.04.24-17.40.37:052][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.24-17.40.37:052][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.24-17.40.37:052][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.24-17.40.37:212][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.24-17.44.12:958][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.24-17.44.14:306][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.24-17.45.12:828][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.24-17.45.22:257][  0]SourceControl: Source control is disabled
+[2018.04.24-17.45.44:492][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.24-17.45.46:648][  0]LogOcInput: OculusInput pre-init called
+[2018.04.24-17.45.54:169][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.00s
+[2018.04.24-17.45.54:861][  0]LogEngine: Initializing Engine...
+[2018.04.24-17.45.55:878][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.24-17.46.00:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.24-17.46.00:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2018.04.24-17.46.05:227][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.24-17.46.07:035][  0]LogInit: XAudio2 using 'MX279 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.24-17.46.07:172][  0]LogInit: FAudioDevice initialized.
+[2018.04.24-17.46.07:943][  0]LogDerivedDataCache: Saved boot cache 0.63s 82MB C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.24-17.46.07:975][  0]LogInit: Texture streaming: Enabled
+[2018.04.24-17.46.09:154][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.24-17.46.11:411][  0]LogInit: Transaction tracking system initialized
+[2018.04.24-17.46.17:121][  0]BlueprintLog: New page: Editor Load
+[2018.04.24-17.46.33:005][  0]LocalizationService: Localization service is disabled
+[2018.04.24-17.46.48:093][  0]LogConsoleResponse: Display: 
+[2018.04.24-17.47.02:559][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.24-17.47.02:598][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.24-17.47.02:691][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.24-17.47.02:806][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/' took 0.68s
+[2018.04.24-17.47.17:464][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-17.47.17:905][  0]LightingResults: New page: Lighting Build
+[2018.04.24-17.47.19:544][  0]MapCheck: New page: Map Check
+[2018.04.24-17.47.19:544][  0]LightingResults: New page: Lighting Build
+[2018.04.24-17.47.24:922][  0]LogAIModule: Creating AISystem for world Mainmenu
+[2018.04.24-17.47.25:973][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-17.47.27:911][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-17.47.30:698][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,787.71ms to complete.
+[2018.04.24-17.47.30:699][  0]LogFileHelpers: Loading map 'Mainmenu' took 13.923
+[2018.04.24-17.49.45:553][  0]LogCollectionManager: Loaded 0 collections in 0.081042 seconds
+[2018.04.24-17.49.51:650][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Saved/Collections/' took 0.01s
+[2018.04.24-17.49.51:650][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/Developers/ldm0196/Collections/' took 0.01s
+[2018.04.24-17.49.51:650][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/Collections/' took 0.01s
+[2018.04.24-17.49.51:650][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.24-17.49.51:781][  0]LogContentBrowser: Native class hierarchy populated in 0.0647 seconds. Added 2365 classes and 521 folders.
+[2018.04.24-17.49.52:139][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.04.24-17.50.00:760][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0020 seconds. Added 0 classes and 0 folders.
+[2018.04.24-17.50.20:229][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.04.24-17.50.44:587][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.24-17.50.46:302][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GoBlock
+[2018.04.24-17.50.46:302][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.24-17.50.46:302][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.04.24-17.50.46:302][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.24-17.50.46:302][  0]LogTemp: BranchPath = DESKTOP-UHTKKQD/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-UHTKKQD/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.04.24-17.50.46:302][  0]LogSlate: Took 0.051696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-17.50.46:788][  0]LogSlate: Took 0.070977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.24-17.50.46:870][  0]LogSlate: Took 0.079108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.24-17.50.51:605][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ldm0196\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.24-17.50.51:606][  0]LogRenderer: Reallocating scene render targets to support 1056x924 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-17.50.59:553][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0021 seconds. Added 1 classes and 2 folders.
+[2018.04.24-17.50.59:553][  0]LogLoad: (Engine Initialization) Total time: 900.04 seconds
+[2018.04.24-17.50.59:553][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.24-17.50.59:604][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.24-17.51.02:259][  0]SourceControl: On branch master
+[2018.04.24-17.51.02:259][  0]SourceControl: Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+[2018.04.24-17.51.02:259][  0]SourceControl:   (use "git pull" to update your local branch)
+[2018.04.24-17.51.02:259][  0]SourceControl: Changes to be committed:
+[2018.04.24-17.51.02:259][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.04.24-17.51.02:259][  0]SourceControl: 	new file:   GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu_BuiltData.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: Changes not staged for commit:
+[2018.04.24-17.51.02:259][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.04.24-17.51.02:259][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/Blueprints/Blockcharacter.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/Blueprints/HardGamemode.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/HUD/MainMenuWidget.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/HUD/Pause.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/HUD/options.uasset
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu.umap
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Intermediate/Build/Win64/GoBlock/DependencyCache.bin
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Intermediate/CachedAssetRegistry.bin
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.04.24-17.51.02:259][  0]SourceControl: 	modified:   GoBlock/Saved/Autosaves/PackageRestoreData.json
+[2018.04.24-17.51.02:259][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-03EFC1DC4E75E534431C0FBA706C84E1/CrashReportClient.ini
+[2018.04.24-17.51.02:259][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-10930C46425E944413611A8ADBD22897/CrashReportClient.ini
+[2018.04.24-17.51.02:259][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-170EF22D46C2E25D15F6148F5AF71496/CrashReportClient.ini
+[2018.04.24-17.51.02:259][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-1719CF274844D0E2826FDA8FE9210CCD/CrashReportClient.ini
+[2018.04.24-17.51.02:259][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-1D0E680447984E3C93EFA6A0EF01F8D5/CrashReportClient.ini
+[2018.04.24-17.51.02:259][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-2AF2E94344D7F6A15DFEA591C95148FD/CrashReportClient.ini
+[2018.04.24-17.51.02:259][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-3237FF8E4E010EB8D196AD8B37E818A4/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-3C2DF3744DFA45A1D6EE76B4D7426762/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-4881A9314A98E7493E395EB8B1A0444B/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-5539848A4760A3F64BE0CB8F29C86007/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-5C5140C74D66E79CCD2BF09F4BA54267/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-6386B53743B26DFB828AD58662622A55/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-79934B7E44FAD026DF0833B38854E10F/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-7F0E2827436E3C87BE28DDA33BE2B05A/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-80EFC2684D82436A79194A9764FFC333/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-8FD5D1074CD7EB1ECBF3DEA76044FFC0/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-98FE1F6540FEFCD431C00BB82968ED64/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-98FE1F6540FEFCD431C00BB82968ED64/CrashReportClient.ini~HEAD
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-98FE1F6540FEFCD431C00BB82968ED64/CrashReportClient.ini~secondary
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-A06FC6AB4621AF4AF94E5D83232E1751/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-A3C0A33E4BDB4E4C062A19B6660E8FFC/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-B069201D46FA3568E8F891ABFDDD1965/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-B205A93E49C24AB55B9759A91D296208/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-B26E1F684295C6B6314E539177B57F93/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-BE0AFDD84ACA817248503DA27CB75F27/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-BFBC9D954D26AE9C3E7D3A85C44FC167/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-C9FC046E46B49409C9C90589004C7DF2/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-CC8162424BDE2AFB286A4195BB233941/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-D9F2E83F4D4110F398C9FFAAEF4861D8/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-DF86F82C4BB9AA8F3939B084871A4D0C/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-DF86F82C4BB9AA8F3939B084871A4D0C/CrashReportClient.ini~HEAD
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-DF86F82C4BB9AA8F3939B084871A4D0C/CrashReportClient.ini~secondary
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-E71204FF425B85FAFD9C6A8F4CC1BF95/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-F23E96D642E9B40E1036729776F87499/CrashReportClient.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Config/Windows/Editor.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Config/Windows/Game.ini
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/3dmodels/02_-_Default.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/3dmodels/02_-_Default.uexp
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/3dmodels/03_-_Default.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/3dmodels/03_-_Default.uexp
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/3dmodels/SK_Car_CarBody.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uexp
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_Floorwall.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_Floorwall.uexp
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Block.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Block.uexp
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Blockcharacter.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Blockcharacter.uexp
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uexp
+[2018.04.24-17.51.02:260][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode.uasset
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode.uexp
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/carcharacter.uasset
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/carcharacter.uexp
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/carpickup.uasset
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/carpickup.uexp
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/GoBlock.uexp
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/GoBlock.umap
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/AllDesktop/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/AllDesktop/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/AllDesktop/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ASTC/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ASTC/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ASTC/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ATC/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ATC/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ATC/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_DXT/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_DXT/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_DXT/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ETC1/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ETC1/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ETC1/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ETC2/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ETC2/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_ETC2/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_Multi/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_Multi/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_Multi/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_PVRTC/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_PVRTC/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Android_PVRTC/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/HTML5/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/HTML5/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/HTML5/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/IOS/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/IOS/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/IOS/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Linux/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Linux/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Linux/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxClient/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxClient/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxClient/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxNoEditor/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxNoEditor/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxNoEditor/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:261][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxServer/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxServer/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/LinuxServer/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Mac/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Mac/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Mac/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacClient/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacClient/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacClient/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacNoEditor/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacNoEditor/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacNoEditor/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacServer/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacServer/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/MacServer/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/TVOS/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/TVOS/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/TVOS/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Windows/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Windows/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/Windows/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsClient/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsClient/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsClient/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/AntialiasedGridFloor.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/GridMaterial.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/GridMaterial.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/PersonaFloorMat.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/PersonaFloorMat.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/PhAT_FloorBox.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/EmptyActor.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/EmptyActor.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.ubulk
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.ubulk
+[2018.04.24-17.51.02:262][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/GeomMaterial.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/GeomMaterial.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uexp
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_Floorwall.uasset
+[2018.04.24-17.51.02:262][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_Floorwall.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_FloorwallHard.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_FloorwallHard.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Blockcharacter.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Blockcharacter.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/HardGamemode.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/HardGamemode.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/MainMenuWidget.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/MainMenuWidget.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/options.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/options.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu.uexp
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu.umap
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsServer/GoBlock/AssetRegistry.bin
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsServer/GoBlock/CookedIniVersion.txt
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/EditorCooked/WindowsServer/GoBlock/DevelopmentAssetRegistry.bin
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.17-21.52.34.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.17-22.06.07.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.17-23.02.42.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.17-23.15.27.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.18-01.32.25.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.18-01.32.53.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.18-01.45.36.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.18-13.02.43.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.19-09.04.10.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.03.19-17.04.33.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/Logs/GoBlock.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock_2-backup-2018.03.17-21.58.36.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock_2-backup-2018.03.18-13.02.43.log
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/Temp/Win64/GoBlock/Config/DefaultEngine.ini
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/Saved/Temp/Win64/GoBlock/Config/DefaultInput.ini
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/config/DefaultEngine.ini
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/content/ThirdPersonCPP/Blueprints/RunCharacter.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	modified:   GoBlock/content/ThirdPersonCPP/Blueprints/RunGamemode.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: Untracked files:
+[2018.04.24-17.51.02:263][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.04.24-17.51.02:263][  0]SourceControl: 	GoBlock/Build/
+[2018.04.24-17.51.02:263][  0]SourceControl: 	GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/HUD/options_Auto4.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Maps/Mainmenu_Auto1.umap
+[2018.04.24-17.51.02:263][  0]SourceControl: 	GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Maps/Mainmenu_BuiltData_Auto1.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	GoBlock/Saved/Backup/3rdpersonpickup_2018-03-20-00-24-00.uasset
+[2018.04.24-17.51.02:263][  0]SourceControl: 	GoBlock/Saved/Backup/Blockcharacter_2018-03-20-00-24-00.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/Carcharacter_2018-03-20-00-24-00.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/HardGamemode_2018-03-20-00-33-26.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/HardGamemode_2018-03-20-01-16-37.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/MainMenuWidget_2018-03-20-00-33-26.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/MainMenuWidget_2018-04-22-11-10-42.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/Mainmenu_2018-03-20-01-20-36.umap
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/Mainmenu_2018-04-21-10-41-50.umap
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/Mainmenu_2018-04-21-11-12-32.umap
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/Pause_2018-03-20-00-24-00.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/Pause_2018-03-20-10-40-58.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/RunCharacter_2018-03-20-00-24-00.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/RunGamemode_2018-03-20-00-33-26.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/RunGamemode_2018-03-20-01-16-37.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/options_2018-03-20-00-38-37.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/options_2018-03-20-01-16-37.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/options_2018-03-20-01-25-34.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Backup/options_2018-03-20-10-40-12.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-141F228E45B666D8944619A30FFBD2C1/
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-22549BFC4395FFCE790C518F6E037C6C/
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-7452F50F4748799277C924A97E4514E6/
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_FloorwallHard.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_FloorwallHard.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/HardGamemode.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/HardGamemode.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/MainMenuGamemode.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/MainMenuGamemode.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode_2.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode_2.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/posses.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Blueprints/posses.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/MainMenu.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/MainMenu.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/MainMenuWidget.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/MainMenuWidget.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/Pause.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/Pause.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/options.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/options.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/GoBlock_2.ubulk
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/GoBlock_2.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/GoBlock_2.umap
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/HardMode.ubulk
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/HardMode.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/HardMode.umap
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu.umap
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/assets/
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/menuimages/
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/myGameinstance.uasset
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Cooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/myGameinstance.uexp
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/Crashes/UE4CC-Windows-22549BFC4395FFCE790C518F6E037C6C_0000/
+[2018.04.24-17.51.02:264][  0]SourceControl: 	GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/Pause.uasset
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/HUD/Pause.uexp
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu_BuiltData.uasset
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu_BuiltData.uexp
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/myGameinstance.uasset
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/EditorCooked/WindowsNoEditor/GoBlock/Content/ThirdPersonCPP/myGameinstance.uexp
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/Logs/GoBlock-backup-2018.04.21-10.27.59.log
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/Logs/GoBlock-backup-2018.04.22-11.06.21.log
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/Logs/GoBlock-backup-2018.04.23-08.31.59.log
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/Logs/GoBlock-backup-2018.04.24-12.36.46.log
+[2018.04.24-17.51.02:265][  0]SourceControl: 	GoBlock/Saved/StagedBuilds/
+[2018.04.24-17.51.02:330][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.24-17.51.08:231][  4]LogAssetRegistry: Asset discovery search completed in 655.1430 seconds
+[2018.04.24-17.51.08:357][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.24-17.51.08:358][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.098345 seconds (updated 0 objects)
+[2018.04.24-17.51.12:837][ 30]LogSlate: Took 0.123063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-17.51.22:015][277]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-17.51.25:353][277]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-17.51.28:677][277]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0032 seconds. Added 116 classes and 0 folders.
+[2018.04.24-17.52.01:942][277]LogSlate: Took 0.038519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.24-17.52.08:600][278]LogSlate: Took 0.054383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.24-17.54.16:537][675]LogAIModule: Creating AISystem for world GoBlock
+[2018.04.24-17.54.18:443][675]Cmd: MAP LOAD FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Maps/GoBlock.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-17.54.18:445][675]LightingResults: New page: Lighting Build
+[2018.04.24-17.54.18:646][675]LoadErrors: New page: Loading map: GoBlock.umap
+[2018.04.24-17.54.18:646][675]MapCheck: New page: Map Check
+[2018.04.24-17.54.18:647][675]LightingResults: New page: Lighting Build
+[2018.04.24-17.54.20:225][675]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-17.54.20:523][675]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-17.54.26:585][675]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6,062.02ms to complete.
+[2018.04.24-17.54.26:589][675]LogFileHelpers: Loading map 'GoBlock' took 8.436
+[2018.04.24-17.54.46:271][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.04.24-17.54.47:256][946]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.04.24-17.55.42:796][195]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.04.24-17.55.43:117][195]LogEditorActor: Deleted 1 Actors (1.806 secs)
+[2018.04.24-17.56.03:179][746]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.57.01:492][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.57.01:619][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-17.57.02:605][746]PIE: New page: PIE session: GoBlock (Apr 24, 2018, 7:57:01 AM)
+[2018.04.24-17.57.03:151][746]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock
+[2018.04.24-17.57.03:651][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.499654s)
+[2018.04.24-17.57.03:652][746]LogAIModule: Creating AISystem for world GoBlock
+[2018.04.24-17.57.03:669][746]LogPlayLevel: PIE: World Init took: (0.017906s)
+[2018.04.24-17.57.03:678][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/GoBlock.GoBlock to /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock (0.526792s)
+[2018.04.24-17.57.03:873][746]LogInit: XAudio2 using 'MX279 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.24-17.57.03:923][746]LogInit: FAudioDevice initialized.
+[2018.04.24-17.57.04:248][746]LogLoad: Game class is 'RunGamemode_C'
+[2018.04.24-17.57.04:274][746]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 3) at 2018.04.24-12.57.04
+[2018.04.24-17.57.04:293][746]LogWorld: Bringing up level for play took: 0.019878
+[2018.04.24-17.57.06:449][746]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.24-17.57.16:707][746]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0283 seconds. Added 11 classes and 0 folders.
+[2018.04.24-17.57.17:580][746]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock 17.037
+[2018.04.24-17.57.17:617][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.57.19:806][746]LogRenderer: Reallocating scene render targets to support 1292x924 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-17.57.26:584][869]Cmd: RestartLevel
+[2018.04.24-17.57.27:408][870]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock?restart
+[2018.04.24-17.57.27:422][870]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.04.24-17.57.28:466][870]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock
+[2018.04.24-17.57.28:478][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011245s)
+[2018.04.24-17.57.28:479][870]LogAIModule: Creating AISystem for world GoBlock
+[2018.04.24-17.57.28:480][870]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2018.04.24-17.57.28:480][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/GoBlock.GoBlock to /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock (0.013605s)
+[2018.04.24-17.57.28:480][870]LogLoad: Game class is 'RunGamemode_C'
+[2018.04.24-17.57.28:482][870]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 3) at 2018.04.24-12.57.28
+[2018.04.24-17.57.28:482][870]LogWorld: Bringing up level for play took: 0.001268
+[2018.04.24-17.57.28:484][870]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.24-17.57.28:513][870]LogLoad: Took 1.090550 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock)
+[2018.04.24-17.57.34:179][ 32]Cmd: RestartLevel
+[2018.04.24-17.57.34:213][ 33]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock?restart
+[2018.04.24-17.57.34:213][ 33]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.04.24-17.57.34:278][ 33]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock
+[2018.04.24-17.57.34:284][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005836s)
+[2018.04.24-17.57.34:284][ 33]LogAIModule: Creating AISystem for world GoBlock
+[2018.04.24-17.57.34:285][ 33]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2018.04.24-17.57.34:285][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/GoBlock.GoBlock to /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock (0.007357s)
+[2018.04.24-17.57.34:285][ 33]LogLoad: Game class is 'RunGamemode_C'
+[2018.04.24-17.57.34:287][ 33]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.04.24-12.57.34
+[2018.04.24-17.57.34:287][ 33]LogWorld: Bringing up level for play took: 0.000867
+[2018.04.24-17.57.34:288][ 33]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.24-17.57.34:305][ 33]LogLoad: Took 0.091752 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock)
+[2018.04.24-17.57.41:604][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.57.41:940][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.57.51:136][519]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.57.51:186][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.57.51:186][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-17.57.51:186][519]PIE: New page: PIE session: GoBlock (Apr 24, 2018, 7:57:51 AM)
+[2018.04.24-17.57.51:187][519]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock
+[2018.04.24-17.57.51:192][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005020s)
+[2018.04.24-17.57.51:192][519]LogAIModule: Creating AISystem for world GoBlock
+[2018.04.24-17.57.51:192][519]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2018.04.24-17.57.51:193][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/GoBlock.GoBlock to /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock (0.006116s)
+[2018.04.24-17.57.51:250][519]LogInit: XAudio2 using 'MX279 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.24-17.57.51:257][519]LogInit: FAudioDevice initialized.
+[2018.04.24-17.57.51:466][519]LogLoad: Game class is 'RunGamemode_C'
+[2018.04.24-17.57.51:467][519]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.04.24-12.57.51
+[2018.04.24-17.57.51:468][519]LogWorld: Bringing up level for play took: 0.001003
+[2018.04.24-17.57.51:468][519]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.24-17.57.51:491][519]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock 0.948
+[2018.04.24-17.57.51:492][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.57.53:518][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.57.53:587][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.58.09:653][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.58.09:700][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.58.09:700][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-17.58.09:701][ 56]PIE: New page: PIE session: GoBlock (Apr 24, 2018, 7:58:09 AM)
+[2018.04.24-17.58.09:701][ 56]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock
+[2018.04.24-17.58.09:706][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005112s)
+[2018.04.24-17.58.09:707][ 56]LogAIModule: Creating AISystem for world GoBlock
+[2018.04.24-17.58.09:707][ 56]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2018.04.24-17.58.09:707][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/GoBlock.GoBlock to /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock (0.006404s)
+[2018.04.24-17.58.09:770][ 56]LogInit: XAudio2 using 'MX279 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.24-17.58.09:777][ 56]LogInit: FAudioDevice initialized.
+[2018.04.24-17.58.09:837][ 56]LogLoad: Game class is 'RunGamemode_C'
+[2018.04.24-17.58.09:839][ 56]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.04.24-12.58.09
+[2018.04.24-17.58.09:840][ 56]LogWorld: Bringing up level for play took: 0.001553
+[2018.04.24-17.58.09:841][ 56]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.24-17.58.09:878][ 56]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock -0.666
+[2018.04.24-17.58.09:878][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.58.11:925][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.58.11:991][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.58.39:432][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.58.39:482][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.58.39:482][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-17.58.39:483][932]PIE: New page: PIE session: GoBlock (Apr 24, 2018, 7:58:39 AM)
+[2018.04.24-17.58.39:483][932]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock
+[2018.04.24-17.58.39:488][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005411s)
+[2018.04.24-17.58.39:489][932]LogAIModule: Creating AISystem for world GoBlock
+[2018.04.24-17.58.39:490][932]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2018.04.24-17.58.39:490][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/GoBlock.GoBlock to /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock (0.006845s)
+[2018.04.24-17.58.40:383][932]LogInit: XAudio2 using 'MX279 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.24-17.58.40:391][932]LogInit: FAudioDevice initialized.
+[2018.04.24-17.58.40:459][932]LogLoad: Game class is 'RunGamemode_C'
+[2018.04.24-17.58.40:461][932]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.04.24-12.58.40
+[2018.04.24-17.58.40:461][932]LogWorld: Bringing up level for play took: 0.001097
+[2018.04.24-17.58.40:462][932]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.24-17.58.40:490][932]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock 1.947
+[2018.04.24-17.58.40:491][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.58.44:701][ 56]Cmd: RestartLevel
+[2018.04.24-17.58.44:734][ 57]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock?restart
+[2018.04.24-17.58.44:734][ 57]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.04.24-17.58.44:801][ 57]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock
+[2018.04.24-17.58.44:807][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005738s)
+[2018.04.24-17.58.44:808][ 57]LogAIModule: Creating AISystem for world GoBlock
+[2018.04.24-17.58.44:808][ 57]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2018.04.24-17.58.44:808][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/GoBlock.GoBlock to /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock (0.006958s)
+[2018.04.24-17.58.44:808][ 57]LogLoad: Game class is 'RunGamemode_C'
+[2018.04.24-17.58.44:809][ 57]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.04.24-12.58.44
+[2018.04.24-17.58.44:809][ 57]LogWorld: Bringing up level for play took: 0.000624
+[2018.04.24-17.58.44:810][ 57]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.24-17.58.44:850][ 57]LogLoad: Took 0.115464 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock)
+[2018.04.24-17.58.48:242][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
+[2018.04.24-17.58.48:317][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock' with GeneratedClass '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/GoBlock.GoBlock:PersistentLevel.GoBlock'
