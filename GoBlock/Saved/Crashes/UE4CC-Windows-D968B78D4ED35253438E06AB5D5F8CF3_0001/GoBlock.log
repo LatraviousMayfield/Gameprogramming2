@@ -1,0 +1,972 @@
+﻿Log file open, 05/06/18 14:31:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GoBlock
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-884593819) SRandInit(-884593819).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.787877
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Binaries/Win64/UE4Editor-GoBlock.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.06-19.31.23:091][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.06-19.31.23:091][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.06-19.31.23:472][  0]LogInit: Computer: DESKTOP-UHTKKQD
+[2018.05.06-19.31.23:472][  0]LogInit: User: ldm0196
+[2018.05.06-19.31.23:472][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.05.06-19.31.23:473][  0]LogInit: High frequency timer resolution =2.924191 MHz
+[2018.05.06-19.31.23:473][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.06-19.31.23:473][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.06-19.31.23:473][  0]LogMemory: Process Physical Memory: 277.65 MB used, 277.65 MB peak
+[2018.05.06-19.31.23:473][  0]LogMemory: Process Virtual Memory: 273.81 MB used, 273.81 MB peak
+[2018.05.06-19.31.23:474][  0]LogMemory: Physical Memory: 7275.18 MB used,  9037.22 MB free, 16312.40 MB total
+[2018.05.06-19.31.23:474][  0]LogMemory: Virtual Memory: 691.34 MB used,  9037.22 MB free, 134217728.00 MB total
+[2018.05.06-19.31.27:025][  0]LogInit: Using OS detected language (en-US).
+[2018.05.06-19.31.27:025][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.06-19.31.27:428][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.06-19.31.28:766][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.06-19.31.39:234][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.06-19.31.39:612][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.05.06-19.31.39:612][  0]LogD3D11RHI:       6052/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.06-19.31.39:615][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.06-19.31.39:615][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.06-19.31.39:615][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.06-19.31.39:629][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.06-19.31.39:629][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.06-19.31.39:629][  0]LogWindows: EnumDisplayDevices:
+[2018.05.06-19.31.39:629][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.05.06-19.31.39:629][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.05.06-19.31.39:630][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.05.06-19.31.39:630][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.05.06-19.31.39:630][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.06-19.31.39:630][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.05.06-19.31.39:630][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.06-19.31.39:630][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.06-19.31.39:630][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.05.06-19.31.39:899][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.06-19.31.42:145][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.06-19.31.42:678][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Intermediate/Shaders/WorkingDirectory/17672/).
+[2018.05.06-19.31.42:678][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ldm0196/AppData/Local/Temp/UnrealShaderWorkingDir/ED0A05AC478D40D96477CF8BBE05F57C/'.
+[2018.05.06-19.31.42:872][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.06-19.32.05:913][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.06-19.32.06:017][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.06-19.32.06:129][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.06-19.32.06:216][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.06-19.32.06:391][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.06-19.32.06:531][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.06-19.32.06:644][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.06-19.32.06:761][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.06-19.32.06:921][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.06-19.32.07:092][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.06-19.32.07:265][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.06-19.32.07:446][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.06-19.32.07:627][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.06-19.32.07:751][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.06-19.32.08:120][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.06-19.32.08:120][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.06-19.32.08:319][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.06-19.32.08:476][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.06-19.32.09:331][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.06-19.32.09:398][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.06-19.32.09:581][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.06-19.32.09:731][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.06-19.32.09:909][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.06-19.32.10:169][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.06-19.32.10:169][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.06-19.32.18:400][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.06-19.32.20:844][  0]LogDerivedDataCache: Loaded boot cache 2.41s 82MB C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.06-19.32.20:845][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.06-19.32.20:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.06-19.32.20:845][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.06-19.32.20:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.06-19.32.20:845][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.06-19.32.21:281][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.06-19.32.21:527][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ldm0196/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.06-19.32.21:895][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.06-19.32.22:318][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.06-19.32.22:696][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.06-19.32.22:728][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.06-19.32.58:957][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.06-19.33.09:068][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.06-19.33.09:383][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.06-19.33.09:469][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.06-19.33.09:469][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.06-19.33.09:469][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.06-19.33.09:469][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.06-19.33.11:832][  0]LogNetVersion: GoBlock , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2987437899)
+[2018.05.06-19.33.20:489][  0]LogAssetRegistry: FAssetRegistry took 0.3688 seconds to start up
+[2018.05.06-19.33.43:338][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.517371 seconds
+[2018.05.06-19.33.43:393][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.06-19.33.43:393][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.05.06-19.33.43:393][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.06-19.33.43:575][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.06-19.35.31:320][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.06-19.35.31:737][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.06-19.35.47:789][  0]LogBlueprint: Warning: [Compiler TImerbarcarchar] 'Carcharacter' does not inherit from 'Player Controller' ( Cast To Carcharacter  would always fail).
+[2018.05.06-19.35.47:974][  0]LogBlueprint: Warning: [Compiler TImerbarcarchar] [0300.17] Compile of TImerbarcarchar successful, but with 1 Warning(s) [in 515 ms] (/Game/ThirdPersonCPP/HUD/TImerbarcarchar.TImerbarcarchar)
+[2018.05.06-19.35.50:734][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.06-19.35.52:431][  0]SourceControl: Source control is disabled
+[2018.05.06-19.35.56:083][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.06-19.35.56:575][  0]LogOcInput: OculusInput pre-init called
+[2018.05.06-19.35.57:491][  0]LogEngine: Initializing Engine...
+[2018.05.06-19.35.57:559][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.06-19.35.58:953][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.06-19.35.58:953][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.06-19.35.59:921][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.06-19.36.00:017][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-19.36.00:217][  0]LogInit: FAudioDevice initialized.
+[2018.05.06-19.36.00:409][  0]LogDerivedDataCache: Saved boot cache 0.19s 82MB C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.06-19.36.00:437][  0]LogInit: Texture streaming: Enabled
+[2018.05.06-19.36.00:645][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.06-19.36.00:939][  0]LogInit: Transaction tracking system initialized
+[2018.05.06-19.36.02:792][  0]BlueprintLog: New page: Editor Load
+[2018.05.06-19.36.05:617][  0]LocalizationService: Localization service is disabled
+[2018.05.06-19.36.07:583][  0]LogConsoleResponse: Display: 
+[2018.05.06-19.36.11:806][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/' took 0.04s
+[2018.05.06-19.36.11:806][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.06-19.36.11:806][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.06-19.36.11:819][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.06-19.36.17:301][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.06-19.36.17:341][  0]LightingResults: New page: Lighting Build
+[2018.05.06-19.36.17:533][  0]MapCheck: New page: Map Check
+[2018.05.06-19.36.17:533][  0]LightingResults: New page: Lighting Build
+[2018.05.06-19.36.17:836][  0]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-19.36.17:959][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.06-19.36.18:070][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.06-19.36.18:164][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.55ms to complete.
+[2018.05.06-19.36.18:164][  0]LogFileHelpers: Loading map 'Mainmenu' took 0.876
+[2018.05.06-19.36.19:391][  0]LogCollectionManager: Loaded 0 collections in 0.003445 seconds
+[2018.05.06-19.36.19:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Saved/Collections/' took 0.01s
+[2018.05.06-19.36.19:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/Developers/ldm0196/Collections/' took 0.01s
+[2018.05.06-19.36.19:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/Collections/' took 0.01s
+[2018.05.06-19.36.19:662][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.06-19.36.19:700][  0]LogContentBrowser: Native class hierarchy populated in 0.0371 seconds. Added 2365 classes and 521 folders.
+[2018.05.06-19.36.19:835][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.06-19.36.21:678][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2018.05.06-19.36.24:415][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.05.06-19.36.32:014][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.06-19.36.32:207][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GoBlock
+[2018.05.06-19.36.32:207][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.06-19.36.32:207][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.05.06-19.36.32:207][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.06-19.36.32:207][  0]LogTemp: BranchPath = DESKTOP-UHTKKQD/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-UHTKKQD/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.06-19.36.32:207][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ldm0196\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.06-19.36.32:207][  0]LogSlate: Took 0.024611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.06-19.36.32:239][  0]LogSlate: Took 0.014022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.06-19.36.32:255][  0]LogSlate: Took 0.014878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.06-19.36.33:051][  0]LogRenderer: Reallocating scene render targets to support 1056x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.06-19.36.33:877][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0022 seconds. Added 1 classes and 2 folders.
+[2018.05.06-19.36.33:878][  0]LogLoad: (Engine Initialization) Total time: 346.08 seconds
+[2018.05.06-19.36.33:878][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.06-19.36.33:878][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.06-19.36.34:047][  0]SourceControl: On branch master
+[2018.05.06-19.36.34:048][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.05.06-19.36.34:048][  0]SourceControl: Changes not staged for commit:
+[2018.05.06-19.36.34:048][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.05.06-19.36.34:048][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.05.06-19.36.34:048][  0]SourceControl: 	modified:   GoBlock/Intermediate/CachedAssetRegistry.bin
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-1E180C7A464A9B4568CB50A3D569C7C0/CrashReportClient.ini
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-2BDEA0E248DB03AB3AF7D1A740750587/CrashReportClient.ini
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-DEA5AF1A415CE919A21286937917752F/CrashReportClient.ini
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-E5A39A0043F10BE39DB7218C75B977A2/CrashReportClient.ini
+[2018.05.06-19.36.34:048][  0]SourceControl: 	modified:   GoBlock/Saved/Config/Windows/Editor.ini
+[2018.05.06-19.36.34:048][  0]SourceControl: 	modified:   GoBlock/Saved/Config/Windows/Engine.ini
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.04.25-12.49.54.log
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.04.26-01.40.10.log
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.04.28-20.58.17.log
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.04.29-10.53.38.log
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.04.29-20.58.35.log
+[2018.05.06-19.36.34:048][  0]SourceControl: 	deleted:    GoBlock/Saved/Logs/GoBlock-backup-2018.04.30-09.12.46.log
+[2018.05.06-19.36.34:048][  0]SourceControl: 	modified:   GoBlock/Saved/Logs/GoBlock.log
+[2018.05.06-19.36.34:048][  0]SourceControl: Untracked files:
+[2018.05.06-19.36.34:048][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.05.06-19.36.34:048][  0]SourceControl: 	GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-D968B78D4ED35253438E06AB5D5F8CF3/
+[2018.05.06-19.36.34:048][  0]SourceControl: 	GoBlock/Saved/Logs/GoBlock-backup-2018.05.06-14.31.11.log
+[2018.05.06-19.36.34:048][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.05.06-19.36.34:061][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.06-19.36.34:365][  3]LogAssetRegistry: Asset discovery search completed in 193.8995 seconds
+[2018.05.06-19.36.34:368][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.06-19.36.34:368][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.05.06-19.36.35:307][ 30]LogSlate: Took 0.023114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.06-19.46.14:391][360]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.06-19.46.15:051][360]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.06-19.46.15:386][360]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2018.05.06-19.46.22:011][360]LogSlate: Took 0.019272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.06-19.46.56:063][360]LogSlate: Took 0.011547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.06-19.47.29:128][348]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-19.47.29:284][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.47.29:296][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-19.47.29:339][348]PIE: New page: PIE session: Mainmenu (May 6, 2018, 9:47:29 AM)
+[2018.05.06-19.47.29:339][348]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-19.47.29:361][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021895s)
+[2018.05.06-19.47.29:362][348]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-19.47.29:362][348]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2018.05.06-19.47.29:363][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.023236s)
+[2018.05.06-19.47.29:446][348]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-19.47.29:632][348]LogInit: FAudioDevice initialized.
+[2018.05.06-19.47.29:722][348]LogLoad: Game class is 'GameMode'
+[2018.05.06-19.47.29:724][348]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-14.47.29
+[2018.05.06-19.47.29:724][348]LogWorld: Bringing up level for play took: 0.000810
+[2018.05.06-19.47.29:743][348]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-19.47.29:842][348]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2018.05.06-19.47.29:842][348]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.47.29:842][348]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.47.29:842][348]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.47.29:924][348]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.47.29:932][348]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu -0.12
+[2018.05.06-19.47.29:941][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.47.29:973][348]LogRenderer: Reallocating scene render targets to support 1292x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.06-19.47.36:317][536]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.47.36:317][536]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.47.36:317][536]LogNet: Browse: /Game/ThirdPersonCPP/Maps/HardMode
+[2018.05.06-19.47.36:317][536]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/HardMode
+[2018.05.06-19.47.37:960][536]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.654 s
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: 
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: 
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: Stack: 
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x000000009DD92786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x000000009DB3123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x000000009DB4B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000984C0199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x000000009848EF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000B4CA6C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000B4FBDED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000B4FD5259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000B4FD4774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x000000009C17FB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x000000009C133FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x000000009C1A539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000996861B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x0000000099F34AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x0000000001865A26 UE4Editor.exe!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x0000000001875430 UE4Editor.exe!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000018754AA UE4Editor.exe!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x0000000001882379 UE4Editor.exe!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x0000000001883D57 UE4Editor.exe!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000F0C01FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: [Callstack] 0x00000000F196F061 ntdll.dll!UnknownFunction []
+[2018.05.06-19.47.37:961][536]LogOutputDevice: Error: 
+[2018.05.06-19.47.37:965][536]LogStats:                SubmitErrorReport -  0.000 s
+[2018.05.06-19.47.41:357][536]LogStats:                    SendNewReport -  3.392 s
+[2018.05.06-19.47.41:357][536]LogStats:             FDebug::EnsureFailed -  4.050 s
+[2018.05.06-19.47.44:199][536]LogAIModule: Creating AISystem for world HardMode
+[2018.05.06-19.47.44:200][536]LogLoad: Game class is 'HardGamemode_C'
+[2018.05.06-19.47.44:260][536]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_HardMode.HardMode up for play (max tick rate 0) at 2018.05.06-14.47.44
+[2018.05.06-19.47.44:261][536]LogWorld: Bringing up level for play took: 0.059819
+[2018.05.06-19.47.44:262][536]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-19.47.44:347][536]LogLoad: Took 8.029803 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/HardMode)
+[2018.05.06-19.47.50:103][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.47.50:218][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.50.44:181][890]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-19.50.44:254][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.50.44:254][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-19.50.44:254][890]PIE: New page: PIE session: Mainmenu (May 6, 2018, 9:50:44 AM)
+[2018.05.06-19.50.44:256][890]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-19.50.44:257][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001214s)
+[2018.05.06-19.50.44:258][890]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-19.50.44:258][890]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.05.06-19.50.44:259][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.002335s)
+[2018.05.06-19.50.44:333][890]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-19.50.44:512][890]LogInit: FAudioDevice initialized.
+[2018.05.06-19.50.44:582][890]LogLoad: Game class is 'GameMode'
+[2018.05.06-19.50.44:583][890]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-14.50.44
+[2018.05.06-19.50.44:584][890]LogWorld: Bringing up level for play took: 0.001133
+[2018.05.06-19.50.44:584][890]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-19.50.44:585][890]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.50.44:585][890]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.50.44:585][890]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.50.44:587][890]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.50.44:595][890]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu 0.543
+[2018.05.06-19.50.44:595][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.50.45:507][916]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.50.45:507][916]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.50.45:507][916]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-19.50.45:508][916]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-19.50.46:111][916]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-19.50.46:111][916]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-19.50.46:115][916]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-14.50.46
+[2018.05.06-19.50.46:115][916]LogWorld: Bringing up level for play took: 0.002850
+[2018.05.06-19.50.46:116][916]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-19.50.46:134][916]LogLoad: Took 0.626762 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-19.50.50:370][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.50.50:447][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.50.51:729][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-19.50.51:792][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.50.51:793][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-19.50.51:793][ 80]PIE: New page: PIE session: Mainmenu (May 6, 2018, 9:50:51 AM)
+[2018.05.06-19.50.51:794][ 80]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-19.50.51:796][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001386s)
+[2018.05.06-19.50.51:797][ 80]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-19.50.51:797][ 80]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.05.06-19.50.51:797][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.002593s)
+[2018.05.06-19.50.51:866][ 80]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-19.50.52:055][ 80]LogInit: FAudioDevice initialized.
+[2018.05.06-19.50.52:124][ 80]LogLoad: Game class is 'GameMode'
+[2018.05.06-19.50.52:126][ 80]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-14.50.52
+[2018.05.06-19.50.52:126][ 80]LogWorld: Bringing up level for play took: 0.000829
+[2018.05.06-19.50.52:126][ 80]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-19.50.52:127][ 80]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.50.52:127][ 80]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.50.52:127][ 80]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.50.52:129][ 80]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.50.52:136][ 80]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu 0.085
+[2018.05.06-19.50.52:137][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.50.53:544][121]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.50.53:544][121]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.50.53:545][121]LogNet: Browse: /Game/ThirdPersonCPP/Maps/HardMode
+[2018.05.06-19.50.53:545][121]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/HardMode
+[2018.05.06-19.50.54:123][121]LogAIModule: Creating AISystem for world HardMode
+[2018.05.06-19.50.54:124][121]LogLoad: Game class is 'HardGamemode_C'
+[2018.05.06-19.50.54:127][121]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_HardMode.HardMode up for play (max tick rate 0) at 2018.05.06-14.50.54
+[2018.05.06-19.50.54:127][121]LogWorld: Bringing up level for play took: 0.002476
+[2018.05.06-19.50.54:128][121]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-19.50.54:151][121]LogLoad: Took 0.605995 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/HardMode)
+[2018.05.06-19.50.56:258][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.50.56:334][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.52.11:191][407]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-19.52.11:266][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.52.11:267][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-19.52.11:267][407]PIE: New page: PIE session: Mainmenu (May 6, 2018, 9:52:11 AM)
+[2018.05.06-19.52.11:268][407]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-19.52.11:270][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001193s)
+[2018.05.06-19.52.11:270][407]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-19.52.11:271][407]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2018.05.06-19.52.11:271][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.002403s)
+[2018.05.06-19.52.11:348][407]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-19.52.11:527][407]LogInit: FAudioDevice initialized.
+[2018.05.06-19.52.11:594][407]LogLoad: Game class is 'GameMode'
+[2018.05.06-19.52.11:596][407]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-14.52.11
+[2018.05.06-19.52.11:596][407]LogWorld: Bringing up level for play took: 0.001472
+[2018.05.06-19.52.11:597][407]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-19.52.11:597][407]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.52.11:597][407]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.52.11:597][407]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.52.11:600][407]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.52.11:603][407]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu -0.448
+[2018.05.06-19.52.11:604][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.52.13:439][461]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.52.13:439][461]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.52.13:439][461]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-19.52.13:439][461]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-19.52.14:023][461]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-19.52.14:023][461]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-19.52.14:027][461]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-14.52.14
+[2018.05.06-19.52.14:027][461]LogWorld: Bringing up level for play took: 0.002797
+[2018.05.06-19.52.14:028][461]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-19.52.14:046][461]LogLoad: Took 0.606863 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-19.52.16:177][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.52.16:251][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.53.00:517][848]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.064
+[2018.05.06-19.53.00:546][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/HUD/RunHUD] ([1] browsable assets)...
+[2018.05.06-19.53.00:546][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/HUD/RunHUD]
+[2018.05.06-19.53.00:837][848]LogSavePackage: Save=61.40ms
+[2018.05.06-19.53.00:837][848]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/RunHUD_Auto178D3831D4F9BB4EE138DE89B6E78AA08.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/HUD/RunHUD_Auto1.uasset'
+[2018.05.06-19.53.00:841][848]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/HUD/RunHUD_Auto1.uasset
+[2018.05.06-19.53.00:841][848]LogFileHelpers: Auto-saving content packages took 0.323
+[2018.05.06-19.59.07:140][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/RunGamemode" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode.uasset" SILENT=true
+[2018.05.06-19.59.07:232][823]LogSavePackage: Save=44.36ms
+[2018.05.06-19.59.07:232][823]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/RunGamemode5BEE1F154D1F27BFBC095E8CF91C404D.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode.uasset'
+[2018.05.06-19.59.07:236][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunGamemode.uasset
+[2018.05.06-19.59.08:447][859]BlueprintLog: New page: Compile RunGamemode
+[2018.05.06-19.59.10:264][901]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-19.59.10:326][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.59.10:327][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-19.59.10:327][901]PIE: New page: PIE session: Mainmenu (May 6, 2018, 9:59:10 AM)
+[2018.05.06-19.59.10:329][901]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-19.59.10:331][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001707s)
+[2018.05.06-19.59.10:331][901]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-19.59.10:332][901]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2018.05.06-19.59.10:332][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.003196s)
+[2018.05.06-19.59.10:403][901]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-19.59.10:579][901]LogInit: FAudioDevice initialized.
+[2018.05.06-19.59.10:642][901]LogLoad: Game class is 'GameMode'
+[2018.05.06-19.59.10:644][901]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-14.59.10
+[2018.05.06-19.59.10:645][901]LogWorld: Bringing up level for play took: 0.001818
+[2018.05.06-19.59.10:645][901]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-19.59.10:646][901]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.59.10:646][901]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-19.59.10:646][901]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.59.10:649][901]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-19.59.10:652][901]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu 0.601
+[2018.05.06-19.59.10:653][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.59.11:612][929]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.59.11:612][929]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-19.59.11:612][929]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-19.59.11:612][929]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-19.59.12:159][929]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-19.59.12:159][929]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-19.59.12:161][929]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-14.59.12
+[2018.05.06-19.59.12:162][929]LogWorld: Bringing up level for play took: 0.002007
+[2018.05.06-19.59.12:163][929]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-19.59.12:180][929]LogLoad: Took 0.567794 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-19.59.15:183][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-19.59.15:261][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.02.10:835][272]BlueprintLog: New page: Compile HardGamemode
+[2018.05.06-20.02.13:520][340]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-20.02.13:594][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.02.13:594][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-20.02.13:595][340]PIE: New page: PIE session: Mainmenu (May 6, 2018, 10:02:13 AM)
+[2018.05.06-20.02.13:597][340]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-20.02.13:598][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001285s)
+[2018.05.06-20.02.13:599][340]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-20.02.13:599][340]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2018.05.06-20.02.13:599][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.002655s)
+[2018.05.06-20.02.13:676][340]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-20.02.13:855][340]LogInit: FAudioDevice initialized.
+[2018.05.06-20.02.13:922][340]LogLoad: Game class is 'GameMode'
+[2018.05.06-20.02.13:923][340]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-15.02.13
+[2018.05.06-20.02.13:924][340]LogWorld: Bringing up level for play took: 0.001158
+[2018.05.06-20.02.13:924][340]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-20.02.13:925][340]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-20.02.13:925][340]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-20.02.13:925][340]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-20.02.13:927][340]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-20.02.13:931][340]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu -0.12
+[2018.05.06-20.02.13:931][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.02.15:399][383]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-20.02.15:399][383]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-20.02.15:399][383]LogNet: Browse: /Game/ThirdPersonCPP/Maps/HardMode
+[2018.05.06-20.02.15:399][383]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/HardMode
+[2018.05.06-20.02.15:974][383]LogAIModule: Creating AISystem for world HardMode
+[2018.05.06-20.02.15:975][383]LogLoad: Game class is 'HardGamemode_C'
+[2018.05.06-20.02.15:978][383]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_HardMode.HardMode up for play (max tick rate 0) at 2018.05.06-15.02.15
+[2018.05.06-20.02.15:978][383]LogWorld: Bringing up level for play took: 0.002520
+[2018.05.06-20.02.15:979][383]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-20.02.16:000][383]LogLoad: Took 0.601104 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/HardMode)
+[2018.05.06-20.02.16:970][412]LogBlueprintUserMessages: [HardGamemode_C_0] 1
+[2018.05.06-20.02.17:970][442]LogBlueprintUserMessages: [HardGamemode_C_0] 2
+[2018.05.06-20.02.18:970][472]LogBlueprintUserMessages: [HardGamemode_C_0] 3
+[2018.05.06-20.02.19:970][502]LogBlueprintUserMessages: [HardGamemode_C_0] 4
+[2018.05.06-20.02.20:970][532]LogBlueprintUserMessages: [HardGamemode_C_0] 5
+[2018.05.06-20.02.21:072][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.02.21:153][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.03.56:210][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/HUD/RunHUD" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/HUD/RunHUD.uasset" SILENT=true
+[2018.05.06-20.03.56:344][374]LogSavePackage: Save=85.40ms
+[2018.05.06-20.03.56:344][374]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/RunHUDECB817E4469402206E8544BD8B1FA6F5.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/HUD/RunHUD.uasset'
+[2018.05.06-20.03.56:351][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/HUD/RunHUD.uasset
+[2018.05.06-20.03.58:413][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/HardGamemode" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/HardGamemode.uasset" SILENT=true
+[2018.05.06-20.03.58:508][433]LogSavePackage: Save=46.06ms
+[2018.05.06-20.03.58:508][433]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/HardGamemode4D3FBEAB475D109BCB9C37A510F0902E.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/HardGamemode.uasset'
+[2018.05.06-20.03.58:512][433]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/HardGamemode.uasset
+[2018.05.06-20.05.45:259][632]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.067
+[2018.05.06-20.05.45:262][632]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/HUD/RunHardHUD] ([1] browsable assets)...
+[2018.05.06-20.05.45:262][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/HUD/RunHardHUD]
+[2018.05.06-20.05.45:367][632]LogSavePackage: Save=57.97ms
+[2018.05.06-20.05.45:367][632]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/RunHardHUD_Auto24A0D74CE4E36D0A914215583E443F1A7.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/HUD/RunHardHUD_Auto2.uasset'
+[2018.05.06-20.05.45:369][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/HUD/RunHardHUD_Auto2.uasset
+[2018.05.06-20.05.45:369][632]LogFileHelpers: Auto-saving content packages took 0.108
+[2018.05.06-20.05.59:326][ 45]BlueprintLog: New page: Compile RunHardHUD
+[2018.05.06-20.06.01:067][ 93]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-20.06.01:138][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.06.01:138][ 93]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.06-20.06.01:154][ 93]LogPlayLevel: [PlayLevel] Compiling HardGamemode before play...
+[2018.05.06-20.06.01:527][ 93]LogPlayLevel: PlayLevel: Blueprint regeneration took 388 ms (1 blueprints)
+[2018.05.06-20.06.01:527][ 93]PIE: New page: PIE session: Mainmenu (May 6, 2018, 10:06:01 AM)
+[2018.05.06-20.06.01:529][ 93]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-20.06.01:531][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001186s)
+[2018.05.06-20.06.01:531][ 93]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-20.06.01:531][ 93]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2018.05.06-20.06.01:531][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.002291s)
+[2018.05.06-20.06.01:597][ 93]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-20.06.01:774][ 93]LogInit: FAudioDevice initialized.
+[2018.05.06-20.06.01:834][ 93]LogLoad: Game class is 'GameMode'
+[2018.05.06-20.06.01:836][ 93]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-15.06.01
+[2018.05.06-20.06.01:836][ 93]LogWorld: Bringing up level for play took: 0.001134
+[2018.05.06-20.06.01:836][ 93]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-20.06.01:837][ 93]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-20.06.01:837][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-20.06.01:837][ 93]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-20.06.01:840][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-20.06.01:842][ 93]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu -0.209
+[2018.05.06-20.06.01:843][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.06.02:666][116]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-20.06.02:666][116]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-20.06.02:666][116]LogNet: Browse: /Game/ThirdPersonCPP/Maps/HardMode
+[2018.05.06-20.06.02:666][116]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/HardMode
+[2018.05.06-20.06.03:231][116]LogAIModule: Creating AISystem for world HardMode
+[2018.05.06-20.06.03:232][116]LogLoad: Game class is 'HardGamemode_C'
+[2018.05.06-20.06.03:234][116]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_HardMode.HardMode up for play (max tick rate 0) at 2018.05.06-15.06.03
+[2018.05.06-20.06.03:234][116]LogWorld: Bringing up level for play took: 0.002030
+[2018.05.06-20.06.03:235][116]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-20.06.03:255][116]LogLoad: Took 0.589278 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/HardMode)
+[2018.05.06-20.06.21:540][664]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.05.06-20.06.30:681][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.06.30:750][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.06.39:595][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/HUD/RunHardHUD" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/HUD/RunHardHUD.uasset" SILENT=true
+[2018.05.06-20.06.39:686][197]LogSavePackage: Save=54.47ms
+[2018.05.06-20.06.39:686][197]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/RunHardHUD9ABF91864C51B92F3A6EA8BB2601D74F.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/HUD/RunHardHUD.uasset'
+[2018.05.06-20.06.39:690][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/HUD/RunHardHUD.uasset
+[2018.05.06-20.06.42:308][276]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-20.09.43:587][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Blocker" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset" SILENT=true
+[2018.05.06-20.09.43:684][686]LogSavePackage: Save=49.21ms
+[2018.05.06-20.09.43:684][686]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Blocker4B5C64E148EDB59BC99F8099EC582138.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset'
+[2018.05.06-20.09.43:688][686]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset
+[2018.05.06-20.09.45:370][737]BlueprintLog: New page: Compile Blocker
+[2018.05.06-20.09.45:381][737]LogBlueprint: Error: [Compiler Blocker] The type of  Object  is undetermined.  Connect something to  Cast To RunCharacter  to imply a specific type.
+[2018.05.06-20.09.45:381][737]LogBlueprint: Error: [Compiler Blocker] The type of  Object  is undetermined.  Connect something to  Cast To Carcharacter  to imply a specific type.
+[2018.05.06-20.09.45:381][737]LogBlueprint: Error: [Compiler Blocker] The type of  Object  is undetermined.  Connect something to  Cast To Blockcharacter  to imply a specific type.
+[2018.05.06-20.09.45:382][737]LogBlueprint: Error: [Compiler Blocker] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.05.06-20.09.45:382][737]LogBlueprint: Error: [Compiler Blocker] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.05.06-20.09.45:382][737]LogBlueprint: Error: [Compiler Blocker] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.05.06-20.09.45:615][737]LogBlueprint: Warning: [Compiler Blocker] [2337.81] Compile of Blocker failed. 6 Fatal Issue(s) 0 Warning(s) [in 244 ms] (/Game/ThirdPersonCPP/Blueprints/Blocker.Blocker)
+[2018.05.06-20.09.57:845][104]BlueprintLog: New page: Compile Blocker
+[2018.05.06-20.09.58:051][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_7.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.09.58:051][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_8.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.10.06:094][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Blocker" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset" SILENT=true
+[2018.05.06-20.10.06:171][341]LogSavePackage: Save=37.87ms
+[2018.05.06-20.10.06:171][341]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BlockerD0A3983542C4009297D721A6105B07B6.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset'
+[2018.05.06-20.10.06:176][341]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset
+[2018.05.06-20.10.55:067][784]LogSlate: Took 0.012908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.06-20.11.07:816][167]BlueprintLog: New page: Compile MyGameinstance
+[2018.05.06-20.11.12:546][300]LogSavePackage: Save=8.97ms
+[2018.05.06-20.11.12:546][300]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/MyGameinstanceCC65F3A346C18905BF01DD9746C3121C.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/MyGameinstance.uasset'
+[2018.05.06-20.11.12:550][300]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/MyGameinstance.uasset
+[2018.05.06-20.13.04:657][618]LogSavePackage: Save=49.84ms
+[2018.05.06-20.13.04:657][618]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/3rdpersonpickup4C8783B64D9527983B3B06B19B5AD80D.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uasset'
+[2018.05.06-20.13.04:662][618]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uasset
+[2018.05.06-20.13.06:811][683]BlueprintLog: New page: Compile 3rdpersonpickup
+[2018.05.06-20.13.41:356][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/RunCharacter" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.05.06-20.13.41:508][680]LogSavePackage: Save=107.36ms
+[2018.05.06-20.13.41:508][680]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/RunCharacterEF355A1B4CB3E94DDE26BBB825C0EF9C.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset'
+[2018.05.06-20.13.41:512][680]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset
+[2018.05.06-20.14.03:783][348]BlueprintLog: New page: Compile RunCharacter
+[2018.05.06-20.14.03:885][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_18.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.03:886][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_17.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.03:889][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_23.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.03:889][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_24.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.03:889][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_25.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.03:892][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_29.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.03:892][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_30.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.05:458][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/RunCharacter" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.05.06-20.14.05:605][376]LogSavePackage: Save=107.83ms
+[2018.05.06-20.14.05:605][376]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/RunCharacterC2F5A2A54ABAE88B25BA0AB48DDEE463.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset'
+[2018.05.06-20.14.05:607][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset
+[2018.05.06-20.14.23:061][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Carcharacter" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset" SILENT=true
+[2018.05.06-20.14.23:239][869]LogSavePackage: Save=134.08ms
+[2018.05.06-20.14.23:241][869]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/CarcharacterB5C3533B4A4BE4741331CEB57C292068.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset'
+[2018.05.06-20.14.23:246][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset
+[2018.05.06-20.14.24:033][893]BlueprintLog: New page: Compile Carcharacter
+[2018.05.06-20.14.24:123][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_34.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.24:123][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_35.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.24:127][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_39.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.24:128][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_38.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.24:128][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_40.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.24:131][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_45.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.24:131][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_46.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.14.39:695][339]LogEditorTransaction: Undo Delete current selection
+[2018.05.06-20.14.44:037][468]BlueprintLog: New page: Compile 3rdpersonpickup
+[2018.05.06-20.14.45:217][482]LogSavePackage: Save=56.28ms
+[2018.05.06-20.14.45:218][482]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/3rdpersonpickup9819CC8F4F81872CF47F368F3443D02C.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uasset'
+[2018.05.06-20.14.45:221][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/3rdpersonpickup.uasset
+[2018.05.06-20.15.03:246][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/carpickup" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/carpickup.uasset" SILENT=true
+[2018.05.06-20.15.03:341][  4]LogSavePackage: Save=49.76ms
+[2018.05.06-20.15.03:341][  4]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/carpickupF9396AEF41E7D4AF992A228B42712DDB.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/carpickup.uasset'
+[2018.05.06-20.15.03:345][  4]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/carpickup.uasset
+[2018.05.06-20.15.05:295][ 63]BlueprintLog: New page: Compile carpickup
+[2018.05.06-20.15.05:953][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_carpickup_C_CHILDACTOR_10.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.15.07:577][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/carpickup" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/carpickup.uasset" SILENT=true
+[2018.05.06-20.15.07:665][108]LogSavePackage: Save=49.92ms
+[2018.05.06-20.15.07:665][108]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/carpickupB572567F4047F5EE419A279106BD886E.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/carpickup.uasset'
+[2018.05.06-20.15.07:667][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/carpickup.uasset
+[2018.05.06-20.15.37:964][ 14]BlueprintLog: New page: Compile Blocker
+[2018.05.06-20.15.39:378][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_14.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.15.39:381][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_48.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.15.39:385][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_52.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.15.39:385][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_16.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.15.39:385][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_53.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.15.39:385][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_49.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.15.39:385][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_15.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.15.40:674][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Blocker" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset" SILENT=true
+[2018.05.06-20.15.40:765][ 49]LogSavePackage: Save=44.01ms
+[2018.05.06-20.15.40:765][ 49]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BlockerB0206C834F40301090AE93AD1EF06E6F.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset'
+[2018.05.06-20.15.40:769][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Blocker.uasset
+[2018.05.06-20.15.43:398][128]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-20.15.43:459][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.15.43:459][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-20.15.43:459][128]PIE: New page: PIE session: Mainmenu (May 6, 2018, 10:15:43 AM)
+[2018.05.06-20.15.43:461][128]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-20.15.43:462][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001102s)
+[2018.05.06-20.15.43:462][128]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-20.15.43:462][128]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.05.06-20.15.43:463][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.002125s)
+[2018.05.06-20.15.43:531][128]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-20.15.43:698][128]LogInit: FAudioDevice initialized.
+[2018.05.06-20.15.43:752][128]LogLoad: Game class is 'GameMode'
+[2018.05.06-20.15.43:753][128]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-15.15.43
+[2018.05.06-20.15.43:753][128]LogWorld: Bringing up level for play took: 0.000756
+[2018.05.06-20.15.43:754][128]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-20.15.43:754][128]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-20.15.43:754][128]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-20.15.43:754][128]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-20.15.43:756][128]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-20.15.43:760][128]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu -0.291
+[2018.05.06-20.15.43:761][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.15.44:913][162]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-20.15.44:913][162]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-20.15.44:914][162]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-20.15.44:914][162]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-20.15.45:457][162]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-20.15.45:457][162]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-20.15.45:459][162]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-15.15.45
+[2018.05.06-20.15.45:460][162]LogWorld: Bringing up level for play took: 0.001874
+[2018.05.06-20.15.45:460][162]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-20.15.45:478][162]LogLoad: Took 0.564138 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-20.15.49:581][285]Cmd: RestartLevel
+[2018.05.06-20.15.49:644][286]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock?restart
+[2018.05.06-20.15.49:645][286]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-20.15.50:173][286]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-20.15.50:173][286]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-20.15.50:175][286]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-15.15.50
+[2018.05.06-20.15.50:176][286]LogWorld: Bringing up level for play took: 0.001933
+[2018.05.06-20.15.50:176][286]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-20.15.50:194][286]LogLoad: Took 0.549222 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-20.16.09:424][863]Cmd: RestartLevel
+[2018.05.06-20.16.09:457][864]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock?restart
+[2018.05.06-20.16.09:457][864]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-20.16.09:984][864]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-20.16.09:984][864]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-20.16.09:986][864]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-15.16.09
+[2018.05.06-20.16.09:987][864]LogWorld: Bringing up level for play took: 0.001710
+[2018.05.06-20.16.09:987][864]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-20.16.10:005][864]LogLoad: Took 0.547307 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-20.16.31:071][496]Cmd: RestartLevel
+[2018.05.06-20.16.31:104][497]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock?restart
+[2018.05.06-20.16.31:104][497]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-20.16.31:655][497]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-20.16.31:656][497]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-20.16.31:659][497]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-15.16.31
+[2018.05.06-20.16.31:660][497]LogWorld: Bringing up level for play took: 0.002435
+[2018.05.06-20.16.31:660][497]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-20.16.31:677][497]LogLoad: Took 0.572704 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-20.17.12:926][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.17.12:998][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.18.05:959][316]BlueprintLog: New page: Compile Carcharacter
+[2018.05.06-20.18.06:050][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_61.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.18.06:050][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_60.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.18.06:050][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_59.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.18.06:053][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_65.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.18.06:053][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_66.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.18.06:057][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_69.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.18.06:057][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_70.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.18.36:750][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.063
+[2018.05.06-20.18.36:752][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/Carcharacter] ([1] browsable assets)...
+[2018.05.06-20.18.36:772][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/Carcharacter.Carcharacter]
+[2018.05.06-20.18.36:772][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/Carcharacter]
+[2018.05.06-20.18.36:940][217]LogSavePackage: Save=112.48ms
+[2018.05.06-20.18.36:940][217]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Carcharacter_Auto397B36B4F4928033D9CA1A183E8665B1F.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Carcharacter_Auto3.uasset'
+[2018.05.06-20.18.36:943][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Carcharacter_Auto3.uasset
+[2018.05.06-20.18.36:943][217]LogFileHelpers: Auto-saving content packages took 0.192
+[2018.05.06-20.19.32:377][872]BlueprintLog: New page: Compile RunCharacter
+[2018.05.06-20.19.32:460][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_77.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.19.32:460][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_76.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.19.32:460][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_78.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.19.32:464][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_82.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.19.32:464][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_83.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.19.32:469][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_87.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.19.32:469][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_86.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.19.33:829][898]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.06-20.19.33:901][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.19.33:901][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-20.19.33:902][898]PIE: New page: PIE session: Mainmenu (May 6, 2018, 10:19:33 AM)
+[2018.05.06-20.19.33:904][898]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.06-20.19.33:905][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001161s)
+[2018.05.06-20.19.33:906][898]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.06-20.19.33:906][898]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2018.05.06-20.19.33:906][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.002392s)
+[2018.05.06-20.19.33:974][898]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.06-20.19.34:146][898]LogInit: FAudioDevice initialized.
+[2018.05.06-20.19.34:211][898]LogLoad: Game class is 'GameMode'
+[2018.05.06-20.19.34:213][898]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.06-15.19.34
+[2018.05.06-20.19.34:213][898]LogWorld: Bringing up level for play took: 0.000863
+[2018.05.06-20.19.34:214][898]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.06-20.19.34:214][898]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-20.19.34:214][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.06-20.19.34:214][898]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-20.19.34:217][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.06-20.19.34:225][898]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu 0.174
+[2018.05.06-20.19.34:226][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.19.35:114][924]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.06-20.19.35:114][924]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.06-20.19.35:114][924]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-20.19.35:114][924]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-20.19.35:674][924]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-20.19.35:674][924]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-20.19.35:676][924]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-15.19.35
+[2018.05.06-20.19.35:677][924]LogWorld: Bringing up level for play took: 0.002032
+[2018.05.06-20.19.35:678][924]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-20.19.35:696][924]LogLoad: Took 0.581517 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-20.19.47:285][272]Cmd: RestartLevel
+[2018.05.06-20.19.47:318][273]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock?restart
+[2018.05.06-20.19.47:318][273]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.06-20.19.47:873][273]LogAIModule: Creating AISystem for world GoBlock
+[2018.05.06-20.19.47:874][273]LogLoad: Game class is 'RunGamemode_C'
+[2018.05.06-20.19.47:877][273]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_GoBlock.GoBlock up for play (max tick rate 0) at 2018.05.06-15.19.47
+[2018.05.06-20.19.47:877][273]LogWorld: Bringing up level for play took: 0.002984
+[2018.05.06-20.19.47:878][273]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.06-20.19.47:896][273]LogLoad: Took 0.577256 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/GoBlock)
+[2018.05.06-20.19.49:679][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.19.49:751][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.06-20.19.52:473][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/RunCharacter" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.05.06-20.19.52:636][403]LogSavePackage: Save=116.15ms
+[2018.05.06-20.19.52:636][403]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/RunCharacter7FA0D7574F056D6A5C8E0F9FAC575BF1.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset'
+[2018.05.06-20.19.52:640][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/RunCharacter.uasset
+[2018.05.06-20.19.57:208][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Carcharacter" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset" SILENT=true
+[2018.05.06-20.19.57:361][537]LogSavePackage: Save=107.39ms
+[2018.05.06-20.19.57:361][537]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Carcharacter92AB1AB14CF709EE93EA9AA853B60C20.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset'
+[2018.05.06-20.19.57:365][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset
+[2018.05.06-20.20.29:404][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:404][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:404][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:404][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:404][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:404][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:405][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:405][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:405][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.29:405][485]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.06-20.20.36:164][685]BlueprintLog: New page: Compile Carcharacter
+[2018.05.06-20.20.36:241][685]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_91.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.06-20.20.36:348][685]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.106 s
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: 
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: Ensure condition failed: Obj != nullptr [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\PropertyEditor\Private\PropertyChangeListener.cpp] [Line: 246]
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: 
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: Stack: 
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x000000009DD92786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x000000009DB3123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x000000009DB4B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x0000000097664412 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x00000000924CFE21 UE4Editor-Sequencer.dll!UnknownFunction []
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x000000009248628E UE4Editor-Sequencer.dll!UnknownFunction []
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x00000000B4EFBA9B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x000000009B0AAEC2 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.06-20.20.36:348][685]LogOutputDevice: Error: [Callstack] 0x00000000B4F239EA UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000099A60148 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000096C9E322 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000096C50B8C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000096C5588C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009AFAD4D7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000096C6123F UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000096C016FC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000099AA633E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000096C01133 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000096C50FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000096C55D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009A9C7BBF UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009AACD3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009AA276D2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009AA28C29 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009AAA8C25 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009AB62B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009AB8EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009A9A5EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009A978095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009AA128A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009A9FB092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x000000009A9ED902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000CCE8E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000CCE81A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000CCE903EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000CCE7D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000F15AB85D USER32.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000F15AB1EF USER32.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000CCE91516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000018650C8 UE4Editor.exe!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000001875430 UE4Editor.exe!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000018754AA UE4Editor.exe!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000001882379 UE4Editor.exe!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x0000000001883D57 UE4Editor.exe!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000F0C01FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: [Callstack] 0x00000000F196F061 ntdll.dll!UnknownFunction []
+[2018.05.06-20.20.36:349][685]LogOutputDevice: Error: 
+[2018.05.06-20.20.36:351][685]LogStats:                SubmitErrorReport -  0.000 s
