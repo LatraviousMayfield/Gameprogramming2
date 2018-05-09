@@ -1,0 +1,654 @@
+﻿Log file open, 05/08/18 07:36:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GoBlock
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1254011957) SRandInit(-1254011957).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 42.471206
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Binaries/Win64/UE4Editor-GoBlock.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.08-12.37.27:799][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.08-12.37.27:799][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.08-12.37.29:036][  0]LogInit: Computer: DESKTOP-UHTKKQD
+[2018.05.08-12.37.29:036][  0]LogInit: User: ldm0196
+[2018.05.08-12.37.29:036][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.05.08-12.37.29:036][  0]LogInit: High frequency timer resolution =2.924198 MHz
+[2018.05.08-12.37.29:049][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.08-12.37.29:049][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.08-12.37.29:049][  0]LogMemory: Process Physical Memory: 276.62 MB used, 276.62 MB peak
+[2018.05.08-12.37.29:049][  0]LogMemory: Process Virtual Memory: 272.79 MB used, 272.79 MB peak
+[2018.05.08-12.37.29:049][  0]LogMemory: Physical Memory: 10333.66 MB used,  5978.74 MB free, 16312.40 MB total
+[2018.05.08-12.37.29:049][  0]LogMemory: Virtual Memory: 685.46 MB used,  5978.74 MB free, 134217728.00 MB total
+[2018.05.08-12.37.39:932][  0]LogInit: Using OS detected language (en-US).
+[2018.05.08-12.37.39:932][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.08-12.37.42:369][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.08-12.37.48:096][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.08-12.38.24:418][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.08-12.38.29:040][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.05.08-12.38.29:040][  0]LogD3D11RHI:       6052/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.08-12.38.29:255][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.08-12.38.29:255][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.08-12.38.29:255][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.08-12.38.29:429][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.08-12.38.29:560][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.08-12.38.29:560][  0]LogWindows: EnumDisplayDevices:
+[2018.05.08-12.38.29:560][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.05.08-12.38.29:638][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.05.08-12.38.29:639][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.05.08-12.38.29:639][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.05.08-12.38.29:639][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.08-12.38.29:639][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.05.08-12.38.29:639][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.08-12.38.29:639][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.08-12.38.29:639][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.05.08-12.38.30:361][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.08-12.38.34:343][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.08-12.38.35:519][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Intermediate/Shaders/WorkingDirectory/15748/).
+[2018.05.08-12.38.35:519][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ldm0196/AppData/Local/Temp/UnrealShaderWorkingDir/D9615BCC428D48F2C2F563A58CFF357C/'.
+[2018.05.08-12.38.35:533][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.08-12.39.27:927][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.08-12.39.28:032][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.08-12.39.28:153][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.08-12.39.28:252][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.08-12.39.28:448][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.08-12.39.28:530][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.08-12.39.28:727][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.08-12.39.28:867][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.08-12.39.28:991][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.08-12.39.29:090][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.08-12.39.29:267][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.08-12.39.29:445][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.08-12.39.29:618][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.08-12.39.29:875][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.08-12.39.30:140][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.08-12.39.30:140][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.08-12.39.30:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.08-12.39.30:433][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.08-12.39.31:026][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.08-12.39.31:084][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.08-12.39.31:263][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.08-12.39.31:424][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.08-12.39.31:622][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.08-12.39.31:861][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.08-12.39.31:861][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.08-12.39.41:137][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.08-12.39.48:415][  0]LogDerivedDataCache: Loaded boot cache 7.10s 82MB C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.08-12.39.48:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.08-12.39.48:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.08-12.39.48:415][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.08-12.39.48:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.08-12.39.48:415][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.08-12.39.49:713][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.08-12.39.50:055][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ldm0196/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.08-12.39.50:788][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.08-12.39.51:288][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.08-12.39.51:570][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.08-12.39.51:599][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.08-12.40.37:132][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.08-12.40.57:752][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.08-12.40.58:387][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.08-12.40.58:482][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.08-12.40.58:482][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.08-12.40.58:482][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.08-12.40.58:482][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.08-12.41.05:977][  0]LogNetVersion: GoBlock , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2987437899)
+[2018.05.08-12.41.19:335][  0]LogAssetRegistry: FAssetRegistry took 0.3463 seconds to start up
+[2018.05.08-12.41.57:290][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.934112 seconds
+[2018.05.08-12.41.57:561][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.08-12.41.57:562][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.08-12.41.57:562][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.08-12.41.58:590][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.08-12.43.55:911][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.08-12.43.56:983][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.08-12.44.26:290][  0]LogBlueprint: Warning: [Compiler TImerbarcarchar] 'Carcharacter' does not inherit from 'Player Controller' ( Cast To Carcharacter  would always fail).
+[2018.05.08-12.44.27:075][  0]LogBlueprint: Warning: [Compiler TImerbarcarchar] [0587.37] Compile of TImerbarcarchar successful, but with 1 Warning(s) [in 2,105 ms] (/Game/ThirdPersonCPP/HUD/TImerbarcarchar.TImerbarcarchar)
+[2018.05.08-12.44.39:580][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.08-12.44.45:871][  0]SourceControl: Source control is disabled
+[2018.05.08-12.45.07:936][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.08-12.45.09:323][  0]LogOcInput: OculusInput pre-init called
+[2018.05.08-12.45.15:191][  0]LogEngine: Initializing Engine...
+[2018.05.08-12.45.15:712][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.08-12.45.20:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.08-12.45.20:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.08-12.45.25:881][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.08-12.45.28:355][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.08-12.45.29:078][  0]LogInit: FAudioDevice initialized.
+[2018.05.08-12.45.29:887][  0]LogDerivedDataCache: Saved boot cache 0.37s 82MB C:/Users/ldm0196/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.08-12.45.29:921][  0]LogInit: Texture streaming: Enabled
+[2018.05.08-12.45.31:525][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.08-12.45.34:098][  0]LogInit: Transaction tracking system initialized
+[2018.05.08-12.45.39:018][  0]BlueprintLog: New page: Editor Load
+[2018.05.08-12.45.55:952][  0]LocalizationService: Localization service is disabled
+[2018.05.08-12.46.09:152][  0]LogConsoleResponse: Display: 
+[2018.05.08-12.46.24:233][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.08-12.46.24:301][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/' took 0.44s
+[2018.05.08-12.46.24:301][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.08-12.46.24:505][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.08-12.46.41:775][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Maps/Mainmenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.08-12.46.41:793][  0]LightingResults: New page: Lighting Build
+[2018.05.08-12.46.43:760][  0]MapCheck: New page: Map Check
+[2018.05.08-12.46.43:760][  0]LightingResults: New page: Lighting Build
+[2018.05.08-12.46.48:020][  0]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.08-12.46.49:004][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.08-12.46.51:544][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.08-12.46.51:934][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 377.518ms to complete.
+[2018.05.08-12.46.51:935][  0]LogFileHelpers: Loading map 'Mainmenu' took 10.195
+[2018.05.08-12.47.02:556][  0]LogCollectionManager: Loaded 0 collections in 0.081888 seconds
+[2018.05.08-12.47.04:287][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Saved/Collections/' took 0.01s
+[2018.05.08-12.47.04:287][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/Developers/ldm0196/Collections/' took 0.01s
+[2018.05.08-12.47.04:287][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ldm0196/Desktop/Game2/GoBlock/Content/Collections/' took 0.01s
+[2018.05.08-12.47.04:287][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.08-12.47.04:347][  0]LogContentBrowser: Native class hierarchy populated in 0.0533 seconds. Added 2365 classes and 521 folders.
+[2018.05.08-12.47.05:608][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.05.08-12.47.17:751][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.05.08-12.47.24:943][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2018.05.08-12.48.02:671][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.08-12.48.04:201][  0]LogSlate: Took 0.043667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.08-12.48.05:056][  0]LogSlate: Took 0.624831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.08-12.48.05:149][  0]LogSlate: Took 0.091480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.08-12.48.12:276][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GoBlock
+[2018.05.08-12.48.12:276][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.08-12.48.12:276][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.05.08-12.48.12:276][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.08-12.48.12:276][  0]LogTemp: BranchPath = DESKTOP-UHTKKQD/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-UHTKKQD/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.08-12.48.12:276][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ldm0196\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.08-12.48.12:276][  0]LogRenderer: Reallocating scene render targets to support 1056x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.08-12.48.19:510][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.05.08-12.48.19:511][  0]LogLoad: (Engine Initialization) Total time: 819.80 seconds
+[2018.05.08-12.48.19:511][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.08-12.48.19:563][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.08-12.48.21:009][  0]SourceControl: On branch master
+[2018.05.08-12.48.21:009][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.05.08-12.48.21:009][  0]SourceControl: Changes not staged for commit:
+[2018.05.08-12.48.21:009][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.05.08-12.48.21:009][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.05.08-12.48.21:009][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/Blueprints/MyGameinstance.uasset
+[2018.05.08-12.48.21:009][  0]SourceControl: 	modified:   GoBlock/Content/ThirdPersonCPP/HUD/MainMenuWidget.uasset
+[2018.05.08-12.48.21:009][  0]SourceControl: 	modified:   GoBlock/Intermediate/CachedAssetRegistry.bin
+[2018.05.08-12.48.21:009][  0]SourceControl: 	modified:   GoBlock/Saved/Config/Windows/Editor.ini
+[2018.05.08-12.48.21:009][  0]SourceControl: 	modified:   GoBlock/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.05.08-12.48.21:009][  0]SourceControl: 	modified:   GoBlock/Saved/Config/Windows/Engine.ini
+[2018.05.08-12.48.21:010][  0]SourceControl: 	modified:   GoBlock/Saved/Logs/GoBlock.log
+[2018.05.08-12.48.21:010][  0]SourceControl: Untracked files:
+[2018.05.08-12.48.21:010][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/MyGameinstance_Auto1.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/MyGameinstance_Auto2.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/HUD/MainMenuWidget_Auto1.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/HUD/MainMenuWidget_Auto3.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/HUD/MainMenuWidget_Auto4.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Backup/MainMenuWidget_2018-05-07-12-45-08.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Backup/MainMenuWidget_2018-05-07-12-55-08.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Backup/MainMenuWidget_2018-05-07-14-52-48.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Backup/MainMenuWidget_2018-05-08-00-41-07.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Backup/MyGameinstance_2018-05-07-08-46-49.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Backup/MyGameinstance_2018-05-07-08-57-47.uasset
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-5965D73443C9D77EA63EE6BDC193BBAC/
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-9FE387AE4F511764DBC1BA924378D556/
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Config/CrashReportClient/UE4CC-Windows-F89004254811E09DD77646A2C952B27E/
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Logs/GoBlock-backup-2018.05.07-08.34.14.log
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Logs/GoBlock-backup-2018.05.08-00.24.27.log
+[2018.05.08-12.48.21:010][  0]SourceControl: 	GoBlock/Saved/Logs/GoBlock-backup-2018.05.08-07.36.51.log
+[2018.05.08-12.48.21:010][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.05.08-12.48.21:254][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.08-12.48.22:641][  3]LogAssetRegistry: Asset discovery search completed in 423.3501 seconds
+[2018.05.08-12.48.22:669][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.08-12.48.22:672][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.009984 seconds (updated 0 objects)
+[2018.05.08-12.48.23:822][ 30]LogSlate: Took 0.041378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.08-13.15.41:194][150]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.08-13.15.42:360][150]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0135 seconds. Added 116 classes and 0 folders.
+[2018.05.08-13.15.49:361][150]LogSlate: Took 0.018086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.08-13.39.42:228][ 57]LogSlate: Took 0.030182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.08-13.39.47:871][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.08-13.39.49:621][271]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.08-13.39.51:571][318]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.08-13.39.53:262][363]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.08-13.41.38:137][442]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.163
+[2018.05.08-13.41.38:160][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Child] ([1] browsable assets)...
+[2018.05.08-13.41.38:196][442]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Child.BP_FloorwallHard_Child]
+[2018.05.08-13.41.38:196][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Child]
+[2018.05.08-13.41.38:361][442]LogSavePackage: Save=139.44ms
+[2018.05.08-13.41.38:361][442]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BP_FloorwallHard_Child_Auto152E04A69433EAD1C1D5290A7072C12CF.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Child_Auto1.uasset'
+[2018.05.08-13.41.38:384][442]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Child_Auto1.uasset
+[2018.05.08-13.41.38:384][442]LogFileHelpers: Auto-saving content packages took 0.246
+[2018.05.08-13.41.44:697][622]LogRenderer: Reallocating scene render targets to support 1144x924 Format 10 NumSamples 1 (Frame:849).
+[2018.05.08-13.43.02:213][927]LogEditorTransaction: Undo Modify Component(s)
+[2018.05.08-13.43.16:150][343]BlueprintLog: New page: Compile BP_FloorwallHard_Child
+[2018.05.08-13.49.11:977][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Column" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset" SILENT=true
+[2018.05.08-13.49.12:025][934]LogSavePackage: Save=46.05ms
+[2018.05.08-13.49.12:025][934]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Column9762ABC844D19F8C62EC39A3C40A31AA.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset'
+[2018.05.08-13.49.12:031][934]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset
+[2018.05.08-13.50.37:472][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.08-13.50.37:600][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.08-13.50.37:697][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.08-13.51.07:154][ 26]LogSavePackage: Save=146.62ms
+[2018.05.08-13.51.07:154][ 26]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BP_FloorwallHard_ColumsFABCA4A44D0A51321ECEC699903C2772.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.uasset'
+[2018.05.08-13.51.07:158][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.uasset
+[2018.05.08-13.52.46:272][953]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-13.52.53:885][162]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.08-13.53.08:846][609]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-13.54.48:342][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_71.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.54.48:347][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_77.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.54.48:347][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_76.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.54.48:347][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_72.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.54.56:499][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_94.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.54.56:499][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_93.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.54.56:502][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_97.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.54.56:502][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_98.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.54.59:585][892]BlueprintLog: New page: Compile Column
+[2018.05.08-13.55.00:531][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_53.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.55.00:531][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_54.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.55.00:534][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_57.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.55.00:534][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_58.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-13.55.47:932][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Column" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset" SILENT=true
+[2018.05.08-13.55.48:027][303]LogSavePackage: Save=42.02ms
+[2018.05.08-13.55.48:027][303]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Column25AC763C445C2E0B86D37EBE301E1B42.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset'
+[2018.05.08-13.55.48:031][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset
+[2018.05.08-13.56.24:946][387]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.053
+[2018.05.08-13.56.24:948][387]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums] ([1] browsable assets)...
+[2018.05.08-13.56.24:963][387]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.BP_FloorwallHard_Colums]
+[2018.05.08-13.56.24:963][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums]
+[2018.05.08-13.56.25:158][387]LogSavePackage: Save=146.06ms
+[2018.05.08-13.56.25:158][387]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BP_FloorwallHard_Colums_Auto2156552ED44BE995157B7F49309BA63F8.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto2.uasset'
+[2018.05.08-13.56.25:160][387]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto2.uasset
+[2018.05.08-13.56.25:160][387]LogFileHelpers: Auto-saving content packages took 0.213
+[2018.05.08-13.57.07:655][650]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.08-13.57.50:706][938]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-14.06.26:809][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.054
+[2018.05.08-14.06.26:812][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums] ([1] browsable assets)...
+[2018.05.08-14.06.26:830][392]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.BP_FloorwallHard_Colums]
+[2018.05.08-14.06.26:830][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums]
+[2018.05.08-14.06.27:012][392]LogSavePackage: Save=127.39ms
+[2018.05.08-14.06.27:014][392]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BP_FloorwallHard_Colums_Auto3BE834F23417D3F0BEC004BAFBE262E46.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto3.uasset'
+[2018.05.08-14.06.27:017][392]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto3.uasset
+[2018.05.08-14.06.27:017][392]LogFileHelpers: Auto-saving content packages took 0.206
+[2018.05.08-14.08.20:014][782]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-14.08.24:199][890]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.08-14.08.39:655][351]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-14.12.03:693][417]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.08-14.12.08:063][547]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-14.16.16:111][955]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03.uasset' is outside repository
+[2018.05.08-14.16.16:112][955]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/ShadowTestMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/ShadowTestMesh.uasset' is outside repository
+[2018.05.08-14.16.26:853][267]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03.uasset' is outside repository
+[2018.05.08-14.16.26:853][267]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/ShadowTestMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/ShadowTestMesh.uasset' is outside repository
+[2018.05.08-14.16.29:531][343]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimplePivotPainterExample.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimplePivotPainterExample.uasset' is outside repository
+[2018.05.08-14.16.32:567][432]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogVolume_Cube_01.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogVolume_Cube_01.uasset' is outside repository
+[2018.05.08-14.16.32:733][437]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/Fogsheet/Mesh/S_EV_FogSheet_01.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/Fogsheet/Mesh/S_EV_FogSheet_01.uasset' is outside repository
+[2018.05.08-14.16.33:033][446]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Sphere_HI.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Sphere_HI.uasset' is outside repository
+[2018.05.08-14.16.33:033][446]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/FalloffSphere/Mesh/S_EV_FalloffSphere_Mesh_01.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/FalloffSphere/Mesh/S_EV_FalloffSphere_Mesh_01.uasset' is outside repository
+[2018.05.08-14.16.33:467][459]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset' is outside repository
+[2018.05.08-14.16.33:467][459]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset' is outside repository
+[2018.05.08-14.16.33:600][463]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset' is outside repository
+[2018.05.08-14.16.33:900][472]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset' is outside repository
+[2018.05.08-14.16.34:701][496]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/planes.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/planes.uasset' is outside repository
+[2018.05.08-14.16.34:701][496]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset' is outside repository
+[2018.05.08-14.16.35:033][506]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset' is outside repository
+[2018.05.08-14.16.35:409][514]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Plane.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Plane.uasset' is outside repository
+[2018.05.08-14.16.35:743][524]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/ParticleCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/ParticleCube.uasset' is outside repository
+[2018.05.08-14.16.35:743][524]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset' is outside repository
+[2018.05.08-14.16.35:789][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset' is outside repository
+[2018.05.08-14.16.36:377][543]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/MaterialSphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/MaterialSphere.uasset' is outside repository
+[2018.05.08-14.16.36:377][543]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/MatineeCam_SM.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/MatineeCam_SM.uasset' is outside repository
+[2018.05.08-14.16.36:578][549]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset' is outside repository
+[2018.05.08-14.16.37:278][570]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset' is outside repository
+[2018.05.08-14.16.37:615][580]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/HoverMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/HoverMesh.uasset' is outside repository
+[2018.05.08-14.16.37:615][580]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/FloatingText/JointSphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/FloatingText/JointSphere.uasset' is outside repository
+[2018.05.08-14.16.37:687][582]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset' is outside repository
+[2018.05.08-14.16.38:550][608]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/EditorCylinder.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/EditorCylinder.uasset' is outside repository
+[2018.05.08-14.16.38:815][616]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset' is outside repository
+[2018.05.08-14.16.38:981][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cylinder.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cylinder.uasset' is outside repository
+[2018.05.08-14.16.39:181][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2018.05.08-14.16.39:481][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.05.08-14.16.39:482][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/Cube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/Cube.uasset' is outside repository
+[2018.05.08-14.16.39:714][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset' is outside repository
+[2018.05.08-14.16.39:848][647]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2018.05.08-14.16.39:848][647]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset' is outside repository
+[2018.05.08-14.16.41:454][695]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository
+[2018.05.08-14.16.41:654][701]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/ArcadeEditorSphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/ArcadeEditorSphere.uasset' is outside repository
+[2018.05.08-14.16.41:882][708]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset' is outside repository
+[2018.05.08-14.16.42:082][714]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2018.05.08-14.16.47:331][870]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset' is outside repository
+[2018.05.08-14.16.50:598][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2018.05.08-14.16.50:598][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset' is outside repository
+[2018.05.08-14.16.50:598][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository
+[2018.05.08-14.16.50:598][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2018.05.08-14.21.01:026][480]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03.uasset' is outside repository
+[2018.05.08-14.21.01:027][480]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/ShadowTestMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Meshes/ShadowTestMesh.uasset' is outside repository
+[2018.05.08-14.21.11:794][803]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset' is outside repository
+[2018.05.08-14.21.28:118][278]BlueprintLog: New page: Compile Column
+[2018.05.08-14.22.01:471][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.067
+[2018.05.08-14.22.01:474][258]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums] ([1] browsable assets)...
+[2018.05.08-14.22.01:486][258]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.BP_FloorwallHard_Colums]
+[2018.05.08-14.22.01:487][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums]
+[2018.05.08-14.22.01:683][258]LogSavePackage: Save=142.15ms
+[2018.05.08-14.22.01:684][258]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BP_FloorwallHard_Colums_Auto42CBF88744D07627A9B3EC29BA2CE8909.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto4.uasset'
+[2018.05.08-14.22.01:685][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto4.uasset
+[2018.05.08-14.22.01:686][258]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/Column] ([1] browsable assets)...
+[2018.05.08-14.22.01:711][258]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/Column.Column]
+[2018.05.08-14.22.01:711][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/Column]
+[2018.05.08-14.22.01:830][258]LogSavePackage: Save=66.56ms
+[2018.05.08-14.22.01:830][258]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Column_Auto4E0A48A5144A33548A3CB6BABB12507BD.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Column_Auto4.uasset'
+[2018.05.08-14.22.01:833][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Column_Auto4.uasset
+[2018.05.08-14.22.01:833][258]LogFileHelpers: Auto-saving content packages took 0.361
+[2018.05.08-14.24.32:865][788]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.08-14.25.16:562][ 85]LogSavePackage: Save=140.75ms
+[2018.05.08-14.25.16:564][ 85]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BP_FloorwallHard_Colums586AA759478509F83EE4B3A69DCE12BC.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.uasset'
+[2018.05.08-14.25.16:581][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.uasset
+[2018.05.08-14.25.36:136][672]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-14.26.06:957][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_76.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.06:957][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_75.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.06:960][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_79.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.06:960][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_80.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.21:380][  9]BlueprintLog: New page: Compile Column
+[2018.05.08-14.26.22:387][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_26.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.22:387][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_27.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.22:389][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_58.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.22:389][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_59.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.47:399][757]BlueprintLog: New page: Compile Column
+[2018.05.08-14.26.48:369][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_26.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.48:369][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_27.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.48:372][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_60.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.48:372][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_59.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-14.26.49:651][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Column" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset" SILENT=true
+[2018.05.08-14.26.49:737][789]LogSavePackage: Save=44.61ms
+[2018.05.08-14.26.49:737][789]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Column2894AF68421B648EE5982E9B3E1D2E62.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset'
+[2018.05.08-14.26.49:743][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Column.uasset
+[2018.05.08-14.32.05:765][265]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.060
+[2018.05.08-14.32.05:768][265]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums] ([1] browsable assets)...
+[2018.05.08-14.32.05:783][265]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.BP_FloorwallHard_Colums]
+[2018.05.08-14.32.05:783][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums]
+[2018.05.08-14.32.05:977][265]LogSavePackage: Save=123.60ms
+[2018.05.08-14.32.05:977][265]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BP_FloorwallHard_Colums_Auto587B2125840E78AD18EAB518F7F30411D.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto5.uasset'
+[2018.05.08-14.32.05:980][265]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto5.uasset
+[2018.05.08-14.32.05:980][265]LogFileHelpers: Auto-saving content packages took 0.213
+[2018.05.08-14.32.12:754][468]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-14.32.13:302][468]BlueprintLog: New page: Compile BP_FloorwallHard_Colums
+[2018.05.08-14.42.07:405][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.063
+[2018.05.08-14.42.07:408][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums] ([1] browsable assets)...
+[2018.05.08-14.42.07:422][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums.BP_FloorwallHard_Colums]
+[2018.05.08-14.42.07:422][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums]
+[2018.05.08-14.42.07:592][269]LogSavePackage: Save=118.73ms
+[2018.05.08-14.42.07:592][269]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/BP_FloorwallHard_Colums_Auto694AF041A480C8BAA6E65AE8189361626.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto6.uasset'
+[2018.05.08-14.42.07:597][269]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BP_FloorwallHard_Colums_Auto6.uasset
+[2018.05.08-14.42.07:597][269]LogFileHelpers: Auto-saving content packages took 0.190
+[2018.05.08-20.18.01:762][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/Mainmenu' took 0.119
+[2018.05.08-20.18.01:766][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/Carcharacter] ([1] browsable assets)...
+[2018.05.08-20.18.01:785][795]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/Carcharacter.Carcharacter]
+[2018.05.08-20.18.01:785][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/Carcharacter]
+[2018.05.08-20.18.01:968][795]LogSavePackage: Save=128.87ms
+[2018.05.08-20.18.01:969][795]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Carcharacter_Auto7F9E39CD149385591FAEC80A501D5A4FC.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Carcharacter_Auto7.uasset'
+[2018.05.08-20.18.01:972][795]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Carcharacter_Auto7.uasset
+[2018.05.08-20.18.01:972][795]LogFileHelpers: Auto-saving content packages took 0.208
+[2018.05.08-22.44.05:341][651]BlueprintLog: New page: Compile MyGameinstance
+[2018.05.08-22.44.05:503][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_198.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:509][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_202.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:509][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_203.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:513][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_206.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:513][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_207.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:513][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_208.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:513][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_199.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:513][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_200.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:529][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_100.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:533][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_103.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:533][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_104.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.05:534][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_99.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-22.44.14:431][906]LogSavePackage: Save=10.81ms
+[2018.05.08-22.44.14:431][906]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/MyGameinstanceC0A64F304A2EFD11F48956974EFB9DCA.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/MyGameinstance.uasset'
+[2018.05.08-22.44.14:434][906]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/MyGameinstance.uasset
+[2018.05.08-22.44.17:177][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Carcharacter" FILE="../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset" SILENT=true
+[2018.05.08-22.44.17:351][982]LogSavePackage: Save=127.55ms
+[2018.05.08-22.44.17:351][982]LogSavePackage: Moving '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Saved/Carcharacter2B38F23842C8FE71B717409EAAA620D4.tmp' to '../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset'
+[2018.05.08-22.44.17:361][982]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldm0196/Desktop/Game2/GoBlock/Content/ThirdPersonCPP/Blueprints/Carcharacter.uasset
+[2018.05.08-23.09.33:040][451]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.08-23.09.33:357][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.08-23.09.33:382][451]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.08-23.09.33:424][451]LogPlayLevel: [PlayLevel] Compiling MyGameinstance before play...
+[2018.05.08-23.09.33:447][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_211.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-23.09.33:447][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.DESTROYED_Blocker_C_CHILDACTOR_212.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-23.09.33:456][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_109.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-23.09.33:461][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_114.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-23.09.33:461][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_110.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-23.09.33:461][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_Column_C_CHILDACTOR_113.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.08-23.09.33:527][451]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (1 blueprints)
+[2018.05.08-23.09.33:642][451]PIE: New page: PIE session: Mainmenu (May 8, 2018, 1:09:33 PM)
+[2018.05.08-23.09.33:659][451]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu
+[2018.05.08-23.09.33:695][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035177s)
+[2018.05.08-23.09.33:695][451]LogAIModule: Creating AISystem for world Mainmenu
+[2018.05.08-23.09.33:725][451]LogPlayLevel: PIE: World Init took: (0.030666s)
+[2018.05.08-23.09.33:736][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.077207s)
+[2018.05.08-23.09.34:056][451]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.08-23.09.34:249][451]LogInit: FAudioDevice initialized.
+[2018.05.08-23.09.34:384][451]LogLoad: Game class is 'GameMode'
+[2018.05.08-23.09.34:393][451]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2018.05.08-18.09.34
+[2018.05.08-23.09.34:444][451]LogWorld: Bringing up level for play took: 0.051531
+[2018.05.08-23.09.34:470][451]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.08-23.09.34:634][451]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0021 seconds. Added 11 classes and 0 folders.
+[2018.05.08-23.09.34:635][451]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.08-23.09.34:635][451]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.08-23.09.34:635][451]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.08-23.09.34:699][451]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.08-23.09.34:710][451]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_Mainmenu 0.797
+[2018.05.08-23.09.34:718][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2018.05.08-23.09.34:862][451]LogRenderer: Reallocating scene render targets to support 1292x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.08-23.09.37:659][533]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.05.08-23.09.37:659][533]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.05.08-23.09.37:659][533]LogNet: Browse: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.08-23.09.37:667][533]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/GoBlock
+[2018.05.08-23.09.40:526][533]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.230 s
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: 
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: 
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: Stack: 
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: [Callstack] 0x0000000013242786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: [Callstack] 0x0000000012FE123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: [Callstack] 0x0000000012FFB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: [Callstack] 0x000000000DDE0199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: [Callstack] 0x000000000DDAEF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: [Callstack] 0x000000001F356C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.08-23.09.40:537][533]LogOutputDevice: Error: [Callstack] 0x000000001F66DED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000001F685259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000001F684774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000001162FB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x00000000115E3FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000001165539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000000ED361B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000000F5E4AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000009F385A26 UE4Editor.exe!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000009F395430 UE4Editor.exe!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000009F3954AA UE4Editor.exe!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000009F3A2379 UE4Editor.exe!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000009F3A3D57 UE4Editor.exe!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x0000000067931FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: [Callstack] 0x000000006994F061 ntdll.dll!UnknownFunction []
+[2018.05.08-23.09.40:538][533]LogOutputDevice: Error: 
+[2018.05.08-23.09.40:538][533]LogStats:                SubmitErrorReport -  0.000 s
